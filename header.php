@@ -45,22 +45,22 @@
                     <a href="#"><span>Solutions</span></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="Retail-management-system.php">Retail Management System</a>
+                            <a href="retail-management.php">Retail Management System</a>
                         </li>
                         <li>
-                            <a href="supply-chain-planner.php">Supply Chain Planner</a>
+                            <a href="supply-chain.php">Supply Chain Planner</a>
                         </li>
                         <li>
-                            <a href="inventory-management-system.php">Inventory Management System</a>
+                            <a href="inventary-management.php">Inventory Management System</a>
                         </li>
                         <li>
-                            <a href="erp.php">ERP</a>
+                            <a href="ERP.php">ERP</a>
                         </li>
                         <li>
                             <a href="demand-planner.php">Demand Planner</a>
                         </li>
                         <li>
-                            <a href="order-management-system.php">Order Management System</a>
+                            <a href="order-management.php">Order Management System</a>
                         </li>
                     </ul>
                 </li>

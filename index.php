@@ -95,7 +95,7 @@
                                             </div>
                                             <div class="thumbnail-footer">
                                                 <div class="pull-right tablet-bottom">
-                                                    <a href="#">Read More</a>
+                                                    <a href="retail-management.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -116,8 +116,8 @@
                                             </div>
                                             <div class="thumbnail-footer">
                                                
-                                                <div class="pull-right tablet-bottom" stylte="padding-bottom:50px;">
-                                                    <a href="#">Read More</a>
+                                                <div class="pull-right tablet-bottom">
+                                                    <a href="supply-chain.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -135,12 +135,13 @@
                                                     <p>
                                                        Next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory.
                                                     </p>
+													<p style="height:0px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
                                                
                                                 <div class="pull-right tablet-bottom">
-                                                    <a href="#">Read More</a>
+                                                    <a href="inventary-management.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -156,13 +157,13 @@
                                                     <p>
                                                         The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies. They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution
                                                     </p>
-                                                    <p style="height:12px;"></p>
+                                                    <p style="height:13px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
                                                 
                                                 <div class="pull-right tablet-bottom">
-                                                    <a href="#">Read More</a>
+                                                    <a href="demand-planner.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -185,7 +186,7 @@
                                             </div>
                                             <div class="thumbnail-footer">
                                                 <div class="pull-right tablet-bottom">
-                                                    <a href="#">Read More</a>
+                                                    <a href="ERP.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -205,7 +206,7 @@
                                             <div class="thumbnail-footer">
                                                 
                                                 <div class="pull-right tablet-bottom">
-                                                    <a href="#">Read More</a>
+                                                    <a href="order-management.php">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
