@@ -88,7 +88,7 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">Retail Management System</a></h3>
                                                     <p>
-                                                       A powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully managing inventory, suppliers, pricing, promotions, staff and customers. The tools available within RRMS also give you centralized control over internal store processes, Pricing, Store Operations and so on with experienced customization services.
+                                                       A powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully.
                                                     </p>
                                                     <p style="height:10px;"></p>
                                                 </div>
@@ -109,14 +109,14 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">Supply Chain Planner</a></h3>
                                                     <p>
-                                                       Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments and divestments, product mix portfolio, inventory and outsourcing, and customer service strategies. You can reach informed and optimal decisions adjust your supply chain to changing market conditions.
+                                                       Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments.
                                                     </p>
-                                                    <p style="height:26px;"></p>
+                                                    <p style="height:10px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
                                                
-                                                <div class="pull-right tablet-bottom">
+                                                <div class="pull-right tablet-bottom" stylte="padding-bottom:50px;">
                                                     <a href="#">Read More</a>
                                                 </div>
                                             </div>
@@ -133,7 +133,7 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">Inventory Management System</a></h3>
                                                     <p>
-                                                       Next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory.Inventory management software from Reignsoftprovides Order Management, Asset Tracking. In addition, distributors with multiple branches can transfer items between branches and track item usage at all levels.
+                                                       Next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory.
                                                     </p>
                                                 </div>
                                             </div>
@@ -156,7 +156,7 @@
                                                     <p>
                                                         The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies. They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution
                                                     </p>
-                                                    <p style="height:9px;"></p>
+                                                    <p style="height:12px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
@@ -180,7 +180,7 @@
                                                     <p>
                                                         Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. It attempts to integrate all departments and functions across a company onto a single computer system that can serve all those different departments’ particular needs. Reignsoft ERP software integrates all aspects of an operation, including development, supply chain, manufacturing, sales.
                                                     </p>
-                                                    <p style="height:26px;"></p>
+                                                    <p style="height:31px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
