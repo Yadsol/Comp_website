@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -63,7 +79,24 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>INVENTORY MANAGEMENT SYSTEM</h2>
+							<br>
+							<p>Reignsoft Inventory management system provides next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory. Inventory management software from Reignsoft provides Order Management, Asset Tracking, etc.</p>
+							
+							<p>In addition, distributors with multiple branches can transfer items between branches and track item usage at all levels.
+A healthy inventory allows companies to grow revenues by meeting service levels while minimizing inventory investments, freeing cash flow and incurring low waste. The importance of striking a healthy balance becomes especially relevant in today’s volatile markets, where varying input costs and changes in consumer demand continually challenge manufacturers and retailers. Our inventory management system provides exact time to reorder product which helps organization to avoid running out of products or tying up too much capital in inventory. Our inventory system helps staff to track each lot specific to each distributors’ requirements. Our software allows you to assign each lot an individual number, making it easier to track a product’s genealogy and assign numerous attributes to each.</p>
+<br>
+<h4 class="muted">Key Features:</h4>
+<br>
+<p>•	Simultaneously solving minimum inventory levels across all echelons of the value chain, including plant, distribution centers and retailer locations<br>
+•	Addresses all classes of inventory including, finished goods, raw material and work in progress<br>
+•	Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals<br> 
+•	Reduces working capital requirements and frees up cash flow<br>
+•	Maximization of storage capacity<br>
+•	Allows you ship inventory soon by using Stock locator database.<br>
+•	Better traceability where a product is currently located.<br>
+•	uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting<br></p>
+
                         </div>
                     </div>
 

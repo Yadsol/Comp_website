@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -63,7 +79,23 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>ORDER MANAGEMENT SYSTEM</h2>
+							<br>
+							<p>Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. Order management and processing is seamlessly integrated with the inventory management, business ERP accounting, sales forecasting and CRM, so you can be confident you have the complete story related to the fulfillment of every sales order. 
+Reignsoft provides a standard solution to fulfill you order through web based solutions which connects to distributed locations and systems. ROMS(Reignsoft order management) provides complete order control throughout the distribution center, thus enhancing the effectiveness of Warehouse Management and/or corporate ERP systems.<p> 
+
+<p>Our system is designed to support multiple business models including enterprises, small and medium enterprises. In addition, it is highly scalable to support dynamic business models and partnerships. Its high availability and reliability ensures real‐time support for the wide user base. In addition, ROMS automatically track line item fulfillment so you can easily track and identify what has and hasn’t been invoiced.</p>
+<br>
+<h4 class="muted">Key Features</h4>
+<br>
+	Effective Order Management system that is automatically integrated with the accounting system and inventory control.<br>
+	Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.<br>
+	Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.<br>
+	Real-time status updates, verification, monitoring, and reporting<br>
+	Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication<br>
+	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
+	On-demand generation and printing of shipping documents and labels<br>
+<br>
                         </div>
                     </div>
 

@@ -155,7 +155,7 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">Demand Planner</a></h3>
                                                     <p>
-                                                        The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies. They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution
+                                                        The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way.
                                                     </p>
                                                     <p style="height:13px;"></p>
                                                 </div>
@@ -179,9 +179,9 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">ERP</a></h3>
                                                     <p>
-                                                        Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. It attempts to integrate all departments and functions across a company onto a single computer system that can serve all those different departments’ particular needs. Reignsoft ERP software integrates all aspects of an operation, including development, supply chain, manufacturing, sales.
+                                                        Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. 
                                                     </p>
-                                                    <p style="height:31px;"></p>
+                                                    <p style="height:14px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
@@ -199,8 +199,9 @@
                                                     <div class="thumbnail-arrow"></div>
                                                     <h3><a href="#">Order Management System</a></h3>
                                                     <p>
-                                                        Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. Order management and processing is seamlessly integrated with the inventory management, business ERP accounting, sales forecasting and CRM, so you can be confident you have the complete story related to the fulfillment of every sales order. Fulfill you order through web based solutions which connects to distributed locations.
-                                                    </p>
+                                                        Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. 
+													</p>
+													<p style="height:10px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">

@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>RETAIL MANAGEMENT SYSTEM</title>
+        <title>Reignsoft-About us</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -34,25 +34,8 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
 
-		<div class="navbar navbar-inverse navbar-fixed-top">
-		
+            <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
             </div>
@@ -80,23 +63,7 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>RETAIL MANAGEMENT SYSTEM</h2>
-							<p>Reignsoft Retail management system (RRMS) is a powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully managing inventory, suppliers, pricing, promotions, staff and customers. The tools available within RRMS also give you centralized control over internal store processes, Pricing, Store Operations and so on with experienced customization services.
-RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
-<br>
-<h4 class="muted">Key Features</h4>
-<br><p>
-	Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.<br>
-	Immediately access prices, availability, and stock location through the customizable POS screen<br>
-	Improving efficiency and minimizing data collection errors<br>
-	Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business<br>
-	Easily track and manage hard goods, soft goods, and convenience items.<br>
-	Provides a visual representation of how a division, product category or even an individual item performs.<br>
-	Automate calculation for inventory replenishment based on reorder point/restock level or     quantity sold<br>
-	Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.<br>
-	User friendly POS interface which helps employees to learn within minutes<br>
-
-							</p>
+                            <h2>About Reignsoft</h2>
                         </div>
                     </div>
 

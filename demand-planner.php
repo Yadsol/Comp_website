@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -63,7 +79,20 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>DEMAND PLANNER MANAGENEMT</h2>
+							<br>
+							<p>The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies.  They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution requirements planning activities.  Without these forecasts provided in a timely and efficient manner for all product items, the ERP and SCM systems that manage company planning activities would be seriously compromised, and the company’s ability to function and compete in the marketplace would be severely limited.</p>
+
+ <p>Reignsoft Demand Planner system achieves high accuracy by making realistic estimates of the errors likely to be encountered when using a particular method to forecast a particular item or group of products. It automatically selects the best statistical forecasting method for your demand data and handles all the math, easily incorporating trends, seasonal patterns and the effects of sales promotions and other special events. Our system provides graphical presentation of growth and problem areas and to overcome the same.</p>
+ <br>
+<h4 class="muted">Key Features:</h4>
+<br>
+1)	Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.<br> 
+2)	Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.<br>
+3)	Get guidance and assurance from our team with experience in the trenches<br>
+4)	Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.<br>
+5)	Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies<br>
+
                         </div>
                     </div>
 

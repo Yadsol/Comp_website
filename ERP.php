@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -63,7 +79,24 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>ENTERPRISE RESOURCE PLANNING</h2>
+							<br>
+							<p>Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. It attempts to integrate all departments and functions across a company onto a single computer system that can serve all those different departments’ particular needs. Reignsoft ERP software integrates all aspects of an operation, including development, supply chain, manufacturing, sales and marketing.</p>
+							
+<p>Reignsoft ERP covers the entire spectrum of enterprise functions through a suite of products - Manufacturing  Supply Chain Management (SCM),  Customer Relationship Management (CRM), Enterprise Asset Management (EAM), Project Management, Process Control, Analytics, Advanced Planning & Optimization, and Connectors . You can decide which solutions you want to use, scale up and add more solutions as your business grows</p>
+
+<p>Reignsoft ERP solution helps you to keep pace with ever-changing technology coupled with ease in using the ERP software products; we have expert team for developing Customized ERP Solution. Our ERP solution can be used by Mid-Sized business or Industry specific business</p>
+<br>
+<h4 class="muted">Key Features</h4>
+<br>
+<p>
+1) Improve Productivity and Quality, Companies are expected to control costs, and unnecessary complexity drives up costs. fewer resources to sustain quality & deliver on-time.<br>
+2) Decision Making Based on Facts, which will ensure your conclusions are accepted, implemented, and built on over time throughout your company<br>
+3) Anywhere and Anytime Access, allows accessibility throughout companies and allows better identifying bottlenecks.<br>  
+4) Reduce costs, spend on goods and services. Increase in Profitable growth that creates value.<br> 
+5) Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results<br></p>
+
+
                         </div>
                     </div>
 

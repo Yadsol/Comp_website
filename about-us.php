@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -43,15 +59,15 @@
             <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
 
                 <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
+                        <div class="container">
+                            <div class="slide">
+                                <h1>About Us</h1>
+                                <div class="clearfix"></div>
+                                <h2>our vission</h2>
+                                <div class="clearfix"></div>
+                                <h2>mission</h2>
+                            </div>
+                        </div>
                 </div>
 
             </div>
@@ -101,8 +117,8 @@
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
-	   $('body').addClass('boxed');
+           $('#aboutus').addClass('active mobile-active');
+           $('body').addClass('boxed');
  });
 </script>
 <script src="js/bootstrap.min.js"></script>

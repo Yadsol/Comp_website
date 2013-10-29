@@ -34,6 +34,22 @@
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -63,7 +79,22 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>SUPPLY CHAIN PLANNER</h2>
+							<p>Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments and divestments, product mix portfolio, inventory and outsourcing, and customer service strategies.</p>
+        <br> 
+<p>With Reignsoft supply chain planner solution, you can reach informed and optimal decisions adjust your supply chain to changing market conditions and achieve positive bottom-line results. Our supply chain planner bridges between demand and supply capacity of the company.  We derive the processes of planning and control which can satisfy the market and at the same time to have an optimal use of resources. We provide most efficient downstream data and matured Demand sensing processes. Improved Predictive and big data analytics techniques that make it easier to forecast demand and understand behavior patterns.</p>
+<br>
+<p>Reignsoft supply Chain Planner can help businesses build one globally synchronized plan that responds quickly to supply and demand volatility, increasing both customer satisfaction and profits.</p>
+
+<h4 class="muted">Key Features:</h4><br>
+<p>
+1) Quickly understand the implications of multiple strategic supply chain alternatives, including their impact on bottom line costs<br>
+2) Compare business options with multi-scenario planning<br>
+3) Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency<br>
+4) Advanced predictive and big data analytics for better demand forecast.<br>
+5) Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery<br>
+6) Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
+
                         </div>
                     </div>
 
