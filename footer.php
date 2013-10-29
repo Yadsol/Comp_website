@@ -2,7 +2,7 @@
                 <div class="container">
 
                     <div class="row">
-                        <div class="span3 foot-item">
+                        <div class="span5 foot-item">
                              <h4>Services</h4>
                              <p>
                                 <a href="Business.php">Business intelligence </a>
@@ -15,25 +15,7 @@
                             </p>
                         </div>
 
-                        <div class="span3 foot-item">
-                            <h4>Newsletter</h4>
-                            <p>
-                                Subscribe to our newsletter and get latest news straight to your inbox.
-                            </p>
-                            <form class="navbar-form">
-                                <div class="subscribe-form">
-                                    <input class="subscribe-input" type="text" placeholder="Subscribe...">
-                                    <button type="submit" class="btn btn-subscribe">
-                                        GO
-                                    </button>
-                                </div>
-                            </form>
-                            <p>
-                                <small>No spam, we promise. For more info read <a href="#">PRIVACY POLICY</a>.</small>
-                            </p>
-                        </div>
-
-                        <div class="span3 foot-item">
+                       <div class="span4 foot-item">
                             <h4>Company</h4>
                             <p>
                                <a href="about-us.php"> Overview</a>
@@ -55,14 +37,16 @@
                 </div>
             </div>
 
-            <footer>
+            <footer> 
                 <div class="container">
                     <div class="row">
-                        <div class="span4">
+                        <div class="span5">
                             &copy; 2013 Reignsoft
                         </div>
                         <div class="span4 terms-privacy-links">
+						<div class="pull-left">
                             <a href="#">Always the best</a>
+							</div>
                         </div>
                         <div class="span4">
                             <div class="pull-right">

@@ -29,6 +29,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
+		
     </head>
 
     <body>
@@ -62,7 +63,7 @@
                 <div class="parallax-slider">
                 	<div class="container">
                 	    <div class="slide">
-                	        <h1>About Us</h1>
+                	        <h1> About Us</h1>
                 	        <div class="clearfix"></div>
                 	        <h2>our vission</h2>
                 	        <div class="clearfix"></div>
