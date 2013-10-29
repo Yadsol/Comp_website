@@ -55,32 +55,41 @@
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
             </div>
-
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>ENTERPRISE RESOURCE PLANNING</h2>
+                       <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
 							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                    <div class="span9">
+					<div class="span3 pull-right">
+<img src="images/services/erp1.jpg"></img>
+</div>
+                     <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">ENTERPRISE RESOURCE PLANNING</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                          
+			
 							<p>Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. It attempts to integrate all departments and functions across a company onto a single computer system that can serve all those different departments’ particular needs. Reignsoft ERP software integrates all aspects of an operation, including development, supply chain, manufacturing, sales and marketing.</p>
 							
 <p>Reignsoft ERP covers the entire spectrum of enterprise functions through a suite of products - Manufacturing  Supply Chain Management (SCM),  Customer Relationship Management (CRM), Enterprise Asset Management (EAM), Project Management, Process Control, Analytics, Advanced Planning & Optimization, and Connectors . You can decide which solutions you want to use, scale up and add more solutions as your business grows</p>
@@ -97,7 +106,6 @@
 5) Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results<br></p>
 
 
-                        </div>
                     </div>
 
                   
@@ -110,7 +118,7 @@
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#solutions').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

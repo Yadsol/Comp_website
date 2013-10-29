@@ -40,38 +40,51 @@
                     <?php include_once 'header.php';?>
             </div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
-            <!-- /fullwidthbanner-container -->
+ 
 
             <div class="container content page">
-
-                <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>MOBILE APPLICATION DEVELOPMENT </h2>
+			<div class="row mobile-spacing-5">
+               <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
 							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                
+
+                    <div class="span9">
+						<div class="span3 pull-right">
+<img src="images/services/mo1.jpg"></img>
+</div>
+                        
+                            <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">MOBILE APPLICATION DEVELOPMENT</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                           
+							
 							<p>
 Mobile Application Development for Android & iPhone &iPad
 Mobile Application Development is an area where Reignsoft has in depth knowledge and expertise. Reignsoft Android App development as well as iPhone / iPad App development will help you to get quick mobile apps for you or your organization.
 Reignsoft Mobile Application development team is dedicated, experienced and consists of iOS& android experts to provide you the best mobile apps as per your requirement. Our App developers and technical team play a vital role each app development. They keep in contact with clients for the enrichment of app and Empower with exceptional app development.
 Whatever the business you are in: your potential customer needs to know very important information at the easy access. Reignsoft Mobile Application provides you the right set of functions to cut down your customized development costs and make you pay less & get more.</p>
-                        </div>
+                       
                     </div>
+					</div>
 
                   
             <!-- /container -->
@@ -83,7 +96,7 @@ Whatever the business you are in: your potential customer needs to know very imp
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#services').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

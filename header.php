@@ -75,10 +75,7 @@
                         <li>
                             <a href="webapp.php">Web Application Development</a>
                         </li>
-                        <li>
-                            <a href="dotnetapp.php">Dotnet Application Development</a>
-                        </li>
-                    </ul>
+                         </ul>
                 </li>
                 
                 <li class="divider-vertical"></li>

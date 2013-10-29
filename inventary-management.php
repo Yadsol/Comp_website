@@ -56,32 +56,43 @@
                     <?php include_once 'header.php';?>
             </div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>INVENTORY MANAGEMENT SYSTEM</h2>
+                      <div class="span3">
+					 <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
 							<br>
-							<p>Reignsoft Inventory management system provides next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory. Inventory management software from Reignsoft provides Order Management, Asset Tracking, etc.</p>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                    <div class="span9">
+					<div class="span3 pull-right">
+<img src="images/services/in1.jpg"></img>
+</div>                  
+                         
+                            <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom" style="width:300px;">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">Inventory Management System</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+				
+					<p>Reignsoft Inventory management system provides next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory. Inventory management software from Reignsoft provides Order Management, Asset Tracking, etc.</p>
 							
 							<p>In addition, distributors with multiple branches can transfer items between branches and track item usage at all levels.
 A healthy inventory allows companies to grow revenues by meeting service levels while minimizing inventory investments, freeing cash flow and incurring low waste. The importance of striking a healthy balance becomes especially relevant in today’s volatile markets, where varying input costs and changes in consumer demand continually challenge manufacturers and retailers. Our inventory management system provides exact time to reorder product which helps organization to avoid running out of products or tying up too much capital in inventory. Our inventory system helps staff to track each lot specific to each distributors’ requirements. Our software allows you to assign each lot an individual number, making it easier to track a product’s genealogy and assign numerous attributes to each.</p>
@@ -96,7 +107,6 @@ A healthy inventory allows companies to grow revenues by meeting service levels 
 •	Allows you ship inventory soon by using Stock locator database.<br>
 •	Better traceability where a product is currently located.<br>
 •	uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting<br></p>
-
                         </div>
                     </div>
 
@@ -110,7 +120,7 @@ A healthy inventory allows companies to grow revenues by meeting service levels 
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#solutions').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

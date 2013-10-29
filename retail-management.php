@@ -56,32 +56,43 @@
 		
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
-            </div>
+            </div></div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1> About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>RETAIL MANAGEMENT SYSTEM</h2>
+                     <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
+							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                    <div class="span9">
+					<div class="span3 pull-right">
+<img src="images/services/re1.jpg"></img>
+</div>
+				 <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">RETAIL MANAGEMENT SYSTEM</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                            
+							
 							<p>Reignsoft Retail management system (RRMS) is a powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully managing inventory, suppliers, pricing, promotions, staff and customers. The tools available within RRMS also give you centralized control over internal store processes, Pricing, Store Operations and so on with experienced customization services.
 RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
 <br>
@@ -98,9 +109,8 @@ RRMS Take the lead in your relationships with your distributors with accurate, t
 <img src="images/c-arrow.png" />User friendly POS interface which helps employees to learn within minutes<br>
 
 							</p>
-                        </div>
-                    </div>
-
+                        
+</div></div></div>
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
@@ -111,7 +121,7 @@ RRMS Take the lead in your relationships with your distributors with accurate, t
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#solutions').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

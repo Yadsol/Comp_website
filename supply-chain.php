@@ -56,30 +56,38 @@
                     <?php include_once 'header.php';?>
             </div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
-            <!-- /fullwidthbanner-container -->
-
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>SUPPLY CHAIN PLANNER</h2>
+                      <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
+							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                    <div class="span9">
+						<div class="span3 pull-right">
+<img src="images/services/scm1.jpg"></img>
+</div>                       <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">SUPPLY CHAIN MANAGEMENT</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                        
+                           
 							<p>Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments and divestments, product mix portfolio, inventory and outsourcing, and customer service strategies.</p>
         <br> 
 <p>With Reignsoft supply chain planner solution, you can reach informed and optimal decisions adjust your supply chain to changing market conditions and achieve positive bottom-line results. Our supply chain planner bridges between demand and supply capacity of the company.  We derive the processes of planning and control which can satisfy the market and at the same time to have an optimal use of resources. We provide most efficient downstream data and matured Demand sensing processes. Improved Predictive and big data analytics techniques that make it easier to forecast demand and understand behavior patterns.</p>
@@ -95,7 +103,7 @@
 5) Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery<br>
 6) Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
 
-                        </div>
+                       
                     </div>
 
                   
@@ -108,7 +116,7 @@
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#solutions').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

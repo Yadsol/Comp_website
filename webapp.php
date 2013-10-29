@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Reignsoft-WEBSITE APPLICATIONS</title>
+        <title>Reignsoft-RETAIL MANAGEMENT SYSTEM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -29,60 +29,87 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
+		
     </head>
 
     <body>
 
         <div class="boxed-container">
+		 <div id="gw-switcher">
+            <div class="gw-switcher-body">
+                <div class="gw-switcher-row gw-switcher-header">
+                    <h1>Style Selector</h1>
+                </div>
+                <div class="gw-switcher-tab">
+                    <a href="#"></a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
+                </div>
+                <div class="gw-switcher-row">
+                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
+                </div>
+            </div>
+        </div>
 
-            <div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar navbar-inverse navbar-fixed-top">
+		
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
-            </div>
+            </div></div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>WEB APPLICATION DEVELOPMENT</h2>
-               <p>Reignsoft offers a complete Web Application Development services, from requirements gathering, testing and deployment of web solutions. Our Web Application development professionals bring years of experience in support the development of dynamic websites, web applications and web services. Our web developers have solid understanding of software engineering principles and processes and in-depth experience in web - related software development. We have the expertise to enable client-server applications, desktop applications or even large legacy applications to take advantage of the web.</p>
-			   <br>
-<h2> WEB APPLICATION SUPPORT AND MAINTENANCE</h2>
+                    <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
+							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+                    <div class="span9">
+					<div class="span3 pull-right">
+<img  class="img img-circle" src="images/services/web1.gif"></img>
+</div>
+				  <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">WEB APPLICATION</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                            
+							<p>Reignsoft Retail management system (RRMS) is a powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully managing inventory, suppliers, pricing, promotions, staff and customers. The tools available within RRMS also give you centralized control over internal store processes, Pricing, Store Operations and so on with experienced customization services.
+RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
 <br>
-<p>Reignsoft team will not only support your application, but also work along with you to make enhancements so that your business is better served. Our Web application maintenance service covers all bug fixes, required changes to meet previously agreed upon specifications, and helping clients operate and maintain the Web Application on their own. If the Web Application includes Databases, then such projects can also involve up-scaling or migrating to a new database, or upgrading to a newer version of the underlying Database.
-Website development.</p>
-<p>Reignsoft provides more complete solutions to our customers and helping them succeed in new ways. Our development dedicated in helping all and medium sized businesses to launch and prosper online. The company offers corporate identity design services, affordable offshore website design and development, E-commerce web design and software development along with friendly customer service at great rates!</p>
-<br> 
 <h4 class="muted">Key Features</h4>
-<br>
-	Identify and discuss your web site requirements.<br>
-	Offer a web design that includes your logo and that looks right for your business.<br>
-	Making sure all the content you need is available on the web site.<br>
-	Advising on appropriate keywords for your business on the internet.<br>
-	Providing long term support for you and your web site.<br>
+<br><p>
+<img src="images/c-arrow.png" />Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.<br>
+<img src="images/c-arrow.png" />Immediately access prices, availability, and stock location through the customizable POS screen<br>
+<img src="images/c-arrow.png" />Improving efficiency and minimizing data collection errors<br>
+<img src="images/c-arrow.png" />Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business<br>
+<img src="images/c-arrow.png" />Easily track and manage hard goods, soft goods, and convenience items.<br>
+<img src="images/c-arrow.png" />Provides a visual representation of how a division, product category or even an individual item performs.<br>
+<img src="images/c-arrow.png" />Automate calculation for inventory replenishment based on reorder point/restock level or     quantity sold<br>
+<img src="images/c-arrow.png" />Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.<br>
+<img src="images/c-arrow.png" />User friendly POS interface which helps employees to learn within minutes<br>
 
+							</p>
                         </div>
-                    </div>
-
+</div></div></div>
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
@@ -93,7 +120,7 @@ Website development.</p>
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#services').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

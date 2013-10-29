@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -56,31 +56,44 @@
                     <?php include_once 'header.php';?>
             </div>
 
-            <div class="fullwidthbanner-subpage-container img-slide img-sub-01">
-
-                <div class="parallax-slider">
-                	<div class="container">
-                	    <div class="slide">
-                	        <h1>About Us</h1>
-                	        <div class="clearfix"></div>
-                	        <h2>our vission</h2>
-                	        <div class="clearfix"></div>
-                	        <h2>mission</h2>
-                	    </div>
-                	</div>
-                </div>
-
-            </div>
-            <!-- /fullwidthbanner-container -->
+          
+  
 
             <div class="container content page">
-
-                <div class="row mobile-spacing-5">
-
-                    <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>ORDER MANAGEMENT SYSTEM</h2>
+			      <div class="row mobile-spacing-5">
+                 <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+					
+					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
 							<br>
+					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
+							<br>
+					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
+							<br>
+					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
+							<br>
+					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
+							<br>
+					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
+							<br>
+					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+				    </div>
+          
+
+                    <div class="span9">
+						<div class="span3 pull-right">
+<img src="images/services/re1.jpg"></img>
+</div>
+                        
+                            <div class="span6" style="margin:0px; height:60px;">
+							   <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><a href="#">ORDER MANAGEMENT SYSTEM</a></h3>
+                                            </div>
+                                            </div>
+                                          </div></div>
+                           
+
 							<p>Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. Order management and processing is seamlessly integrated with the inventory management, business ERP accounting, sales forecasting and CRM, so you can be confident you have the complete story related to the fulfillment of every sales order. 
 Reignsoft provides a standard solution to fulfill you order through web based solutions which connects to distributed locations and systems. ROMS(Reignsoft order management) provides complete order control throughout the distribution center, thus enhancing the effectiveness of Warehouse Management and/or corporate ERP systems.<p> 
 
@@ -96,7 +109,7 @@ Reignsoft provides a standard solution to fulfill you order through web based so
 	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
 	On-demand generation and printing of shipping documents and labels<br>
 <br>
-                        </div>
+                       
                     </div>
 
                   
@@ -109,7 +122,7 @@ Reignsoft provides a standard solution to fulfill you order through web based so
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	   $('#solutions').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

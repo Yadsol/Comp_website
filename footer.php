@@ -39,25 +39,21 @@
 
             <footer> 
                 <div class="container">
-                    <div class="row">
-                        <div class="span5">
-                            &copy; 2013 Reignsoft
-                        </div>
-                        <div class="span4 terms-privacy-links">
-						<div class="pull-left">
-                            <a href="#">Always the best</a>
-							</div>
-                        </div>
-                        <div class="span4">
+				<div class="row">
+                       <div class="span11">
                             <div class="pull-right">
                                 <div class="social">
-                                    <a href="#" class="social-icon-twitter"></a>
-                                    <a href="#" class="social-icon-linkedin"></a>
-                                    <a href="#" class="social-icon-facebook"></a>
+                                    <a href="http://twitter.com" class="social-icon-twitter"></a>
+                                    <a href="http://linkedin.com" class="social-icon-linkedin"></a>
+                                    <a href="http://facebook.com" class="social-icon-facebook"></a>
                                 </div>
                             </div>
                         </div>
-                    </div>
+						<div class="row">
+                        <div class="span7 pull-right">
+                            &copy; 2013 Reignsoft
+                        </div>
+                       </div>
                 </div>
             </footer>
 
