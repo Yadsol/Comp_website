@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Reignsoft-ORDER MANAGEMENT SYSTEM</title>
+        <title>Reignsoft-BUSINESS APPLICATIONS</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -34,22 +34,6 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -79,23 +63,33 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>ORDER MANAGEMENT SYSTEM</h2>
+                            <h2>BUSINESS INTELLIGENCE</h2>
 							<br>
-							<p>Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. Order management and processing is seamlessly integrated with the inventory management, business ERP accounting, sales forecasting and CRM, so you can be confident you have the complete story related to the fulfillment of every sales order. 
-Reignsoft provides a standard solution to fulfill you order through web based solutions which connects to distributed locations and systems. ROMS(Reignsoft order management) provides complete order control throughout the distribution center, thus enhancing the effectiveness of Warehouse Management and/or corporate ERP systems.<p> 
+                            <p>The business intelligent data warehouse for the manufacturing enterprise. Helping you manage your business, analytically. Reignsoft has combined manufacturing industry and BI design experience to create pre-built data warehouse to accelerate data warehouse implementations. Our consultants are experienced in creating business views and OLAP cubes/ data marts that work off the back-office OLTP systems. Our scalable solution architecture separates the transaction systems from the reporting and analytical work, thus ensuring that reports and OLAP do not affect the performance of the transaction systems or the load on the main servers<p>
 
-<p>Our system is designed to support multiple business models including enterprises, small and medium enterprises. In addition, it is highly scalable to support dynamic business models and partnerships. Its high availability and reliability ensures real‐time support for the wide user base. In addition, ROMS automatically track line item fulfillment so you can easily track and identify what has and hasn’t been invoiced.</p>
+<p>Reignsoft’s Business Intelligence services cover the entire analytical information architecture which includes data acquisition, data warehousing and business analytic tools. We have a complete, comprehensive set of service offerings which can help you evaluate, assess, deploy and maintain BI applications:</p>
+<br>
+<img src="images/c-arrow.png" />	BI/DW strategy and roadmap definition<br>
+<img src="images/c-arrow.png" />Setting up of BI Competency Centre<br>
+<img src="images/c-arrow.png" />BI/DW Audits and Health Checks<br>
+<img src="images/c-arrow.png" />BI/DW implementation, upgrade and support<br>
+<img src="images/c-arrow.png" />Data Governance - Data cleansing, integration and quality<br>
+<img src="images/c-arrow.png" />Rapid dashboard implementation frameworks<br>
+<img src="images/c-arrow.png" />Enablement of mobile BI<br>
+
+<br>
+<p>Our ease of use application enables higher productivity in reporting, and reduces the workload for the IT departments. Also Reports can be automatically scheduled and emailed; this enables users to get the information they want in actionable time.</p>
 <br>
 <h4 class="muted">Key Features</h4>
 <br>
-	Effective Order Management system that is automatically integrated with the accounting system and inventory control.<br>
-	Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.<br>
-	Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.<br>
-	Real-time status updates, verification, monitoring, and reporting<br>
-	Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication<br>
-	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
-	On-demand generation and printing of shipping documents and labels<br>
+<img src="images/c-arrow.png" /> Provides a business layer which is easy to understand<br>
+<img src="images/c-arrow.png" />Encapsulate data structure and its complexities from users<br>
+<img src="images/c-arrow.png" />Drag-and-drop reporting features, even business users can create their own reports<br>
+<img src="images/c-arrow.png" />Increased productivity for report creation and Low maintenance report changes<br>
 <br>
+<p>With our proven methodologies, deep expertise, and industry specialization, we can deliver actionable and measurable business results that inform decision-making, optimize IT efficiency, and improve business performance.</p>
+
+          
                         </div>
                     </div>
 

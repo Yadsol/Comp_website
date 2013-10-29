@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Reignsoft-About us</title>
+        <title>Reignsoft-WEBSITE APPLICATIONS</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -63,7 +63,23 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
+                            <h2>WEB APPLICATION DEVELOPMENT</h2>
+               <p>Reignsoft offers a complete Web Application Development services, from requirements gathering, testing and deployment of web solutions. Our Web Application development professionals bring years of experience in support the development of dynamic websites, web applications and web services. Our web developers have solid understanding of software engineering principles and processes and in-depth experience in web - related software development. We have the expertise to enable client-server applications, desktop applications or even large legacy applications to take advantage of the web.</p>
+			   <br>
+<h2> WEB APPLICATION SUPPORT AND MAINTENANCE</h2>
+<br>
+<p>Reignsoft team will not only support your application, but also work along with you to make enhancements so that your business is better served. Our Web application maintenance service covers all bug fixes, required changes to meet previously agreed upon specifications, and helping clients operate and maintain the Web Application on their own. If the Web Application includes Databases, then such projects can also involve up-scaling or migrating to a new database, or upgrading to a newer version of the underlying Database.
+Website development.</p>
+<p>Reignsoft provides more complete solutions to our customers and helping them succeed in new ways. Our development dedicated in helping all and medium sized businesses to launch and prosper online. The company offers corporate identity design services, affordable offshore website design and development, E-commerce web design and software development along with friendly customer service at great rates!</p>
+<br> 
+<h4 class="muted">Key Features</h4>
+<br>
+	Identify and discuss your web site requirements.<br>
+	Offer a web design that includes your logo and that looks right for your business.<br>
+	Making sure all the content you need is available on the web site.<br>
+	Advising on appropriate keywords for your business on the internet.<br>
+	Providing long term support for you and your web site.<br>
+
                         </div>
                     </div>
 

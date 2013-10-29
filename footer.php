@@ -5,13 +5,13 @@
                         <div class="span3 foot-item">
                              <h4>Services</h4>
                              <p>
-                                <a href="#">Business intelligence </a>
+                                <a href="Business.php">Business intelligence </a>
                             </p>
                              <p>
-                                <a href="#">Web Development </a>
+                                <a href="webapp.php">Web Development </a>
                             </p>
                             <p>
-                               <a href="#"> Mobile Application Development </a>
+                               <a href="mobileapp.php"> Mobile Application Development </a>
                             </p>
                         </div>
 
@@ -36,13 +36,13 @@
                         <div class="span3 foot-item">
                             <h4>Company</h4>
                             <p>
-                               <a href="#"> Overview</a>
+                               <a href="about-us.php"> Overview</a>
                             </p>
                             <p>
-                               <a href="#"> Why Reignsoft</a>
+                               <a href="about-us.php"> Why Reignsoft</a>
                             </p>
                             <p>
-                               <a href="#"> Our Policy</a>
+                               <a href="about-us.php"> Our Policy</a>
                             </p>
                         </div>
 

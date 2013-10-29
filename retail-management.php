@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>RETAIL MANAGEMENT SYSTEM</title>
+        <title>Reignsoft-RETAIL MANAGEMENT SYSTEM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -86,15 +86,15 @@ RRMS Take the lead in your relationships with your distributors with accurate, t
 <br>
 <h4 class="muted">Key Features</h4>
 <br><p>
-	Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.<br>
-	Immediately access prices, availability, and stock location through the customizable POS screen<br>
-	Improving efficiency and minimizing data collection errors<br>
-	Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business<br>
-	Easily track and manage hard goods, soft goods, and convenience items.<br>
-	Provides a visual representation of how a division, product category or even an individual item performs.<br>
-	Automate calculation for inventory replenishment based on reorder point/restock level or     quantity sold<br>
-	Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.<br>
-	User friendly POS interface which helps employees to learn within minutes<br>
+<img src="images/c-arrow.png" />Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.<br>
+<img src="images/c-arrow.png" />Immediately access prices, availability, and stock location through the customizable POS screen<br>
+<img src="images/c-arrow.png" />Improving efficiency and minimizing data collection errors<br>
+<img src="images/c-arrow.png" />Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business<br>
+<img src="images/c-arrow.png" />Easily track and manage hard goods, soft goods, and convenience items.<br>
+<img src="images/c-arrow.png" />Provides a visual representation of how a division, product category or even an individual item performs.<br>
+<img src="images/c-arrow.png" />Automate calculation for inventory replenishment based on reorder point/restock level or     quantity sold<br>
+<img src="images/c-arrow.png" />Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.<br>
+<img src="images/c-arrow.png" />User friendly POS interface which helps employees to learn within minutes<br>
 
 							</p>
                         </div>

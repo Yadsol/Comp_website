@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Reignsoft-About us</title>
+        <title>Reignsoft-DEMAND PLANNER MANAGENEMT SYSTEM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -79,7 +79,7 @@
 
                     <div class="span12">
                         <div class="page-header arrow-grey">
-                            <h2>DEMAND PLANNER MANAGENEMT</h2>
+                            <h2>DEMAND PLANNER MANAGENEMT SYSTEM</h2>
 							<br>
 							<p>The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies.  They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution requirements planning activities.  Without these forecasts provided in a timely and efficient manner for all product items, the ERP and SCM systems that manage company planning activities would be seriously compromised, and the company’s ability to function and compete in the marketplace would be severely limited.</p>
 
