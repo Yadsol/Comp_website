@@ -61,7 +61,7 @@ DOCTYPE html>
 
             <div class="container content page">
 			      <div class="row mobile-spacing-5">
-                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -89,7 +89,7 @@ DOCTYPE html>
                                             </div>
                                             </div>
                                           </div></div>
-						<div class="span4 pull-right">
+						<div class="span4 pull-right" style="padding:50px;">
 <img src="images/services/re1.jpg"></img>
 </div>
                         
@@ -102,16 +102,15 @@ Reignsoft provides a standard solution to fulfill you order through web based so
 <br>
 <h4 class="muted">Key Features</h4>
 <br>
-<img src="images/c-arrow.png" />	Effective Order Management system that is automatically integrated with the accounting system and inventory control.<br>
-<img src="images/c-arrow.png" />	Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.<br>
-<img src="images/c-arrow.png" />	Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.<br>
-<img src="images/c-arrow.png" />	Real-time status updates, verification, monitoring, and reporting<br>
-<img src="images/c-arrow.png" />	Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication<br>
-<img src="images/c-arrow.png" />	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
-<img src="images/c-arrow.png" />	On-demand generation and printing of shipping documents and labels<br>
-<br>
-                       
-                    </div></div></div></div>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;"> Effective Order Management system that is automatically integrated with the accounting system and inventory control.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Real-time status updates, verification, monitoring, and reporting.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication.</div></div><br>
+
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Purchase Order Management tracking status of each purchase to fulfill placed orders.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">On-demand generation and printing of shipping documents and labels.</div></div><br>
+ </div></div></div></div>
 
                   
             <!-- /container -->

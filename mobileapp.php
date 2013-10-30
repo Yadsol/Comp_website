@@ -44,7 +44,7 @@
 
             <div class="container content page">
 			<div class="row mobile-spacing-5">
-               <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+           <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -58,7 +58,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                 
 
@@ -72,7 +72,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-						<div class="span4 pull-right">
+						<div class="span4 pull-right" style="padding:50px;">
 <img src="images/services/mo1.jpg"></img>
 </div>
                         

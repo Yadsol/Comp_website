@@ -34,23 +34,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
-
+		
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
@@ -62,7 +46,7 @@
 
                 <div class="row mobile-spacing-5">
                     
-					 <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+					 <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -76,7 +60,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					
@@ -88,7 +72,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-					<div class="span4 pull-right">
+					<div class="span4 pull-right" style="padding:50px;">
 <img src="images/services/in1.jpg"></img>
 </div>                  
                          
@@ -100,17 +84,16 @@ A healthy inventory allows companies to grow revenues by meeting service levels 
 <br>
 <h4 class="muted">Key Features:</h4>
 <br>
-<p><img src="images/c-arrow.png" />	Simultaneously solving minimum inventory levels across all echelons of the value chain, including plant, distribution centers and retailer locations<br>
-<img src="images/c-arrow.png" />	Addresses all classes of inventory including, finished goods, raw material and work in progress<br>
-<img src="images/c-arrow.png" />	Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals<br> 
-<img src="images/c-arrow.png" />	Reduces working capital requirements and frees up cash flow<br>
-<img src="images/c-arrow.png" />	Maximization of storage capacity<br>
-<img src="images/c-arrow.png" />	Allows you ship inventory soon by using Stock locator database.<br>
-<img src="images/c-arrow.png" />	Better traceability where a product is currently located.<br>
-<img src="images/c-arrow.png" />	uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting<br></p>
-                        </div>
-                    </div>
-</div>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Addresses all classes of inventory including, finished goods, raw material and work in progress.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Reduces working capital requirements and frees up cash flow</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Maximization of storage capacity</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Better traceability where a product is currently located.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">User friendly POS interface which helps employees to learn within minutes</div></div><br>
+
+</div></div></div></div>
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>

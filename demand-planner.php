@@ -35,23 +35,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
-
+		
 		<div class="navbar navbar-inverse navbar-fixed-top">
 		
                 <div class="navbar-head">
@@ -63,9 +47,8 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
-					
-					<h3style="color:red">SERVICES</h3>	
+                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
+					<h3 style="color:red">SERVICES</h3>	
 				
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -79,7 +62,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					 <div class="span9" style="margin:0px; height:60px;">
@@ -90,7 +73,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-					<div class="span4 pull-right">
+					<div class="span4 pull-right" style="padding:50px;">
 <img src="images/services/de1.jpg"></img>
 </div>
 				
@@ -102,13 +85,13 @@
 <br>
 <p class="muted"><h4>Key Features:</h4></p>
 </br>
-<img src="images/c-arrow.png" />	Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.<br> 
-<img src="images/c-arrow.png" />	Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.<br>
-<img src="images/c-arrow.png" />	Get guidance and assurance from our team with experience in the trenches<br>
-<img src="images/c-arrow.png" />	Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.<br>
-<img src="images/c-arrow.png" />	Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies<br>
 
-</div></div></div></div>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;"> Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Get guidance and assurance from our team with experience in the trenches.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies</div><br>
+</p></div></div></div></div>
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>

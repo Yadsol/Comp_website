@@ -34,22 +34,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
+		
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
@@ -60,7 +45,7 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                        <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+                       <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
 					<h3  style="color:black"style="color:red">SERVICES</h3>
 			
@@ -74,7 +59,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					  <div class="span9" style="margin:0px; height:60px;">
@@ -85,7 +70,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-					<div class="span4 pull-right">
+					<div class="span4 pull-right"style="padding-top:50px;">
 <img src="images/services/erp1.jpg"></img>
 </div>
                    
@@ -100,11 +85,17 @@
 <h4 class="muted">Key Features</h4>
 <br>
 <p>
-<img src="images/c-arrow.png" /> Improve Productivity and Quality, Companies are expected to control costs, and unnecessary complexity drives up costs. fewer resources to sustain quality & deliver on-time.<br>
-<img src="images/c-arrow.png" /> Decision Making Based on Facts, which will ensure your conclusions are accepted, implemented, and built on over time throughout your company<br>
-<img src="images/c-arrow.png" /> Anywhere and Anytime Access, allows accessibility throughout companies and allows better identifying bottlenecks.<br>  
-<img src="images/c-arrow.png" /> Reduce costs, spend on goods and services. Increase in Profitable growth that creates value.<br> 
-<img src="images/c-arrow.png" /> Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results<br></p>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;"> Improve Productivity and Quality, Companies are expected to control costs, and unnecessary complexity drives up costs. fewer resources to sustain quality & deliver on-time..</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Decision Making Based on Facts, which will ensure your conclusions are accepted, implemented, and built on over time throughout your company.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Anywhere and Anytime Access, allows accessibility throughout companies and allows better identifying bottlenecks.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Reduce costs, spend on goods and services. Increase in Profitable growth that creates value.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results</div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Easily track and manage hard goods, soft goods, and convenience items.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Provides a visual representation of how a division, product category or even an individual item performs.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Automate calculation for inventory replenishment based on reorder point/restock level orquantity sold</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">User friendly POS interface which helps employees to learn within minutes</div></div><br>
+</p>
 
 
                     </div></div></div></div>

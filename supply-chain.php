@@ -34,23 +34,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
-
+		 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
@@ -59,7 +43,7 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -73,7 +57,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					<div class="span9" style="margin:0px; height:60px;">
@@ -84,7 +68,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-						<div class="span4 pull-right">
+						<div class="span4 pull-right" style="padding-top:50px;">
 <img src="images/services/scm1.jpg"></img>
 </div>                       
                         
@@ -97,12 +81,12 @@
 
 <h4 class="muted">Key Features:</h4><br>
 <p>
-<img src="images/c-arrow.png" /> Quickly understand the implications of multiple strategic supply chain alternatives, including their impact on bottom line costs<br>
-<img src="images/c-arrow.png" /> Compare business options with multi-scenario planning<br>
-<img src="images/c-arrow.png" /> Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency<br>
-<img src="images/c-arrow.png" /> Advanced predictive and big data analytics for better demand forecast.<br>
-<img src="images/c-arrow.png" /> Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery<br>
-<img src="images/c-arrow.png" /> Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Compare business options with multi-scenario planning.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Advanced predictive and big data analytics for better demand forecast.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px; width:680px;">Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Effective forecasting from complex data sets flowing into the business from multiple sources.</div></div><br>
+</p>
 
                        
                     </div></div></div></div>

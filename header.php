@@ -76,7 +76,7 @@
                             <a href="webapp.php">Web Application Development</a>
                         </li>
 						 <li>
-                            <a href="Business.php">BUSINESS INTELLIGENCES</a>
+                            <a href="Business.php">Business Intelligences</a>
                         </li>
                          </ul>
                 </li>

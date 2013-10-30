@@ -35,22 +35,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
+	
 
 		<div class="navbar navbar-inverse navbar-fixed-top">
 		
@@ -64,7 +49,7 @@
 
                 <div class="row mobile-spacing-5">
 				 
-                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
@@ -78,7 +63,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					<div class="span9" style="margin:0px; height:60px;">
@@ -88,7 +73,7 @@
                                                 <h3><a href="#">BUSINESS INTELLIGENCE</a></h3>
                                             </div></div></div></div>
 					
-					<div class="span4 pull-right">
+					<div class="span4 pull-right" style="padding:50px;">
 <img src="images/services/b1.jpg"></img>
 </div>
 				

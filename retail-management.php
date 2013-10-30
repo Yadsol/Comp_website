@@ -35,23 +35,7 @@
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
-
+		
 		<div class="navbar navbar-inverse navbar-fixed-top">
 		
                 <div class="navbar-head">
@@ -63,13 +47,13 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
+                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;">
 					
 					<h3  style="color:red">SERVICES</h3>
 			
 					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
 						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planner</a><br>
 							
 					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
 						
@@ -77,7 +61,7 @@
 						
 					<a  style="color:black" href="order-management.php">Order Management system</a><br>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
 					<div class="span9" style="margin:0px; height:60px;">
@@ -88,7 +72,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-					<div class="span4 pull-right">
+					<div class="span4 pull-right" style="padding-top:50px;">
 <img src="images/services/re1.jpg"></img>
 </div>
 				 
@@ -99,15 +83,16 @@ RRMS Take the lead in your relationships with your distributors with accurate, t
 <br>
 <h4 class="muted">Key Features</h4>
 <br><p>
-<img src="images/c-arrow.png" />Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.<br>
-<img src="images/c-arrow.png" />Immediately access prices, availability, and stock location through the customizable POS screen<br>
-<img src="images/c-arrow.png" />Improving efficiency and minimizing data collection errors<br>
-<img src="images/c-arrow.png" />Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business<br>
-<img src="images/c-arrow.png" />Easily track and manage hard goods, soft goods, and convenience items.<br>
-<img src="images/c-arrow.png" />Provides a visual representation of how a division, product category or even an individual item performs.<br>
-<img src="images/c-arrow.png" />Automate calculation for inventory replenishment based on reorder point/restock level or     quantity sold<br>
-<img src="images/c-arrow.png" />Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.<br>
-<img src="images/c-arrow.png" />User friendly POS interface which helps employees to learn within minutes<br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Immediately access prices, availability, and stock location through the customizable POS screen</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Improving efficiency and minimizing data collection errors</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Better inventory management providing details on current item stock and identify additional stock required to smoothly operate the business</div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Easily track and manage hard goods, soft goods, and convenience items.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Provides a visual representation of how a division, product category or even an individual item performs.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Automate calculation for inventory replenishment based on reorder point/restock level orquantity sold</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Provides sales and inventory reports that help make it easy to decide what products you want to order from distributors.</div></div><br>
+<div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">User friendly POS interface which helps employees to learn within minutes</div></div><br>
 
 							</p>
                         
