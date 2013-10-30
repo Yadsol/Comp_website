@@ -4405,8 +4405,7 @@ a.menu:after, .dropdown-toggle:after {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/www\/w-balls-html\/html_source\/lib\/_master\.scss}line{font-family:\000031123}}
   .thumbnail .caption {
     padding: 17px 20px 6px 20px;
-    border-left: 1px #ebebeb solid;
-    border-right: 1px #ebebeb solid; }
+    }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/www\/w-balls-html\/html_source\/lib\/_master\.scss}line{font-family:\000031128}}
     .thumbnail .caption.caption-arrow {
       position: relative; }
@@ -4492,7 +4491,7 @@ a.menu:after, .dropdown-toggle:after {
         text-decoration: none; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/www\/w-balls-html\/html_source\/lib\/_master\.scss}line{font-family:\000031220}}
   .thumbnail:hover {
-    background-color: whitesmoke;
+    background-color: white;
     cursor: pointer;
     border-top: 2px #15b994 solid;
     cursor: default; }

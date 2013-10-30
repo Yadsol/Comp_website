@@ -3727,8 +3727,7 @@ a.menu:after, .dropdown-toggle:after {
     transition: all 0.3s ease-in; }
   .thumbnail .caption {
     padding: 17px 20px 6px 20px;
-    border-left: 1px #ebebeb solid;
-    border-right: 1px #ebebeb solid; }
+     }
     .thumbnail .caption.caption-arrow {
       position: relative; }
       .thumbnail .caption.caption-arrow:before {
@@ -5577,3 +5576,4 @@ body {
     border: 1px solid #eee;
     -webkit-border-radius: 6px;
 }
+

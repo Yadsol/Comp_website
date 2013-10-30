@@ -56,34 +56,31 @@
 		
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
-            </div></div>
+            </div>
 
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                    <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+                     <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
 					
-					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
-							<br>
-					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
-							<br>
-					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
-							<br>
-					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
-							<br>
-					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
-							<br>
-					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
-							<br>
-					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+					<h3  style="color:red">SERVICES</h3>
+			
+					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+						
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+							
+					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+						
+					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+						
+					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+							
+					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
-					<div class="span3 pull-right">
-<img  class="img" src="images/services/web2.jpg"></img>
-</div>
-				  <div class="span6" style="margin:0px; height:60px;">
+					 <div class="span9" style=" margin:0px;height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
@@ -91,6 +88,10 @@
                                             </div>
                                             </div>
                                           </div></div>
+					<div class="span4 pull-right">
+<img  class="img" src="images/services/web2.jpg"></img>
+</div>
+				 
                             
 							<p>Reignsoft Retail management system (RRMS) is a powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully managing inventory, suppliers, pricing, promotions, staff and customers. The tools available within RRMS also give you centralized control over internal store processes, Pricing, Store Operations and so on with experienced customization services.
 RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
@@ -113,7 +114,7 @@ RRMS Take the lead in your relationships with your distributors with accurate, t
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
-
+</div>
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->

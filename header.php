@@ -42,7 +42,7 @@
                 </li>
                 <li class="divider-vertical"></li>
                 <li id="solutions" class="dropdown">
-                    <a href="#"><span>Solutions</span></a>
+                    <a ><span>Solutions</span></a>
                     <ul class="dropdown-menu">
                         <li>
                             <a href="retail-management.php">Retail Management System</a>
@@ -74,6 +74,9 @@
                         </li>
                         <li>
                             <a href="webapp.php">Web Application Development</a>
+                        </li>
+						 <li>
+                            <a href="Business.php">BUSINESS INTELLIGENCES</a>
                         </li>
                          </ul>
                 </li>

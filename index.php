@@ -147,7 +147,7 @@
                                         </div>
                                     </div>
                                 <div style="clear:both"></div>
-                                <div class="span4">
+                                <div class="span4" style="margin-top:0px;">
                                         <div class="thumbnail">
                                             <div class="picture"><img src="images/product/test-image1.jpg" alt=""></div>
                                             <div class="caption-border-bottom">
@@ -157,7 +157,7 @@
                                                     <p>
                                                         The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way.
                                                     </p>
-                                                    <p style="height:13px;"></p>
+                                                    <p style="height:12px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
@@ -169,7 +169,7 @@
                                         </div>
                                     </div>
                                 
-                                <div class="span4">
+                                <div class="span4" style="margin-top:0px;">
                                         <div class="thumbnail">
                                             <div class="picture picture-url-overlay">
                                                 <div><img src="images/product/test-image2.jpg" alt=""></div>
@@ -181,7 +181,7 @@
                                                     <p>
                                                         Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. 
                                                     </p>
-                                                    <p style="height:14px;"></p>
+                                                    <p style="height:12px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">
@@ -191,7 +191,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                   <div class="span4">
+                                   <div class="span4" style="margin-top:0px;">
                                         <div class="thumbnail">
                                             <div class="picture"><img <img src="images/product/test-image4.jpg" alt=""></div>
                                             <div class="caption-border-bottom">
@@ -201,7 +201,7 @@
                                                     <p>
                                                         Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. 
 													</p>
-													<p style="height:10px;"></p>
+													<p style="height:8px;"></p>
                                                 </div>
                                             </div>
                                             <div class="thumbnail-footer">

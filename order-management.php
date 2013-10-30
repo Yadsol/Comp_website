@@ -61,30 +61,27 @@ DOCTYPE html>
 
             <div class="container content page">
 			      <div class="row mobile-spacing-5">
-                 <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
 					
-					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
-							<br>
-					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
-							<br>
-					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
-							<br>
-					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
-							<br>
-					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
-							<br>
-					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
-							<br>
-					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+					<h3  style="color:red">SERVICES</h3>
+			
+					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+						
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+							
+					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+						
+					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+						
+					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+							
+					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
 				    </div>
           
 
                     <div class="span9">
-						<div class="span3 pull-right">
-<img src="images/services/re1.jpg"></img>
-</div>
-                        
-                            <div class="span6" style="margin:0px; height:60px;">
+					
+                            <div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
@@ -92,6 +89,10 @@ DOCTYPE html>
                                             </div>
                                             </div>
                                           </div></div>
+						<div class="span4 pull-right">
+<img src="images/services/re1.jpg"></img>
+</div>
+                        
                            
 
 							<p>Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. Order management and processing is seamlessly integrated with the inventory management, business ERP accounting, sales forecasting and CRM, so you can be confident you have the complete story related to the fulfillment of every sales order. 
@@ -110,12 +111,12 @@ Reignsoft provides a standard solution to fulfill you order through web based so
 <img src="images/c-arrow.png" />	On-demand generation and printing of shipping documents and labels<br>
 <br>
                        
-                    </div>
+                    </div></div></div></div>
 
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
-
+</div>
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->

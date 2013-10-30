@@ -56,7 +56,7 @@
 		
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
-            </div></div>
+            </div>
 
             <!-- /fullwidthbanner-container -->
 
@@ -64,36 +64,35 @@
 
                 <div class="row mobile-spacing-5">
 				 
-                 <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
 					
-					<h4 style="color:red">SERVICES</h4><br>
+					<h3  style="color:red">SERVICES</h3>
 			
-					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a><br>
-							<br>
-					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a><br>
-							<br>
-					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a><br>
-							<br>
-					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a><br>
-							<br>
-					<a href="order-management.php"><a style="color:black">Order Management system</a></a><br>
-							<br>
-					<a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a><br>
+					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+						
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+							
+					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+						
+					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+						
+					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+							
+					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
-					
-					<div class="span3 pull-right">
-<img src="images/services/b1.jpg"></img>
-</div>
-				  <div class="span6" style=" margin:0px;height:60px;">
+					<div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3>BUSINESS INTELLIGENCE</h3>
-                                            </div>
-                                            </div>
-                                          </div></div>
+                                                <h3><a href="#">BUSINESS INTELLIGENCE</a></h3>
+                                            </div></div></div></div>
+					
+					<div class="span4 pull-right">
+<img src="images/services/b1.jpg"></img>
+</div>
 				
+
                             <p>The business intelligent data warehouse for the manufacturing enterprise. Helping you manage your business, analytically. Reignsoft has combined manufacturing industry and BI design experience to create pre-built data warehouse to accelerate data warehouse implementations. Our consultants are experienced in creating business views and OLAP cubes/ data marts that work off the back-office OLTP systems. Our scalable solution architecture separates the transaction systems from the reporting and analytical work, thus ensuring that reports and OLAP do not affect the performance of the transaction systems or the load on the main servers</p>
 
 <p>Reignsoft’s Business Intelligence services cover the entire analytical information architecture which includes data acquisition, data warehousing and business analytic tools. We have a complete, comprehensive set of service offerings which can help you evaluate, assess, deploy and maintain BI applications:</p>
@@ -123,7 +122,7 @@
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
-
+</div>
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->

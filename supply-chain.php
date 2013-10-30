@@ -59,26 +59,24 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                      <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
 					
-					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
-							<br>
-					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
-							<br>
-					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
-							<br>
-					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
-							<br>
-					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
-							<br>
-					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
-							<br>
-					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+					<h3  style="color:red">SERVICES</h3>
+			
+					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+						
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+							
+					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+						
+					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+						
+					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+							
+					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
-						<div class="span3 pull-right">
-<img src="images/services/scm1.jpg"></img>
-</div>                       <div class="span6" style="margin:0px; height:60px;">
+					<div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
@@ -86,6 +84,9 @@
                                             </div>
                                             </div>
                                           </div></div>
+						<div class="span4 pull-right">
+<img src="images/services/scm1.jpg"></img>
+</div>                       
                         
                            
 							<p>Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments and divestments, product mix portfolio, inventory and outsourcing, and customer service strategies.</p>
@@ -104,12 +105,12 @@
 <img src="images/c-arrow.png" /> Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
 
                        
-                    </div>
+                    </div></div></div></div>
 
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
-
+</div>
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->

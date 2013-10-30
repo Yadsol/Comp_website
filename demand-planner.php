@@ -56,42 +56,45 @@
 		
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
-            </div></div>
+            </div>
 
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                     <div class="span3" style=" margin:0px;border-right:1px solid silver;">
+                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:1px solid red; width:200px">
 					
-					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
-							<br>
-					<a href="retail-management.php"><a style="color:black">Retail Management System</a></a>		<br>
-							<br>
-					<a href="Supply-chain.php"><a style="color:black">Supply Chain Planner</a></a>		<br>
-							<br>
-					<a href ="inventary-management.php"><a style="color:black">inventory Management System</a></a>		<br>
-							<br>
-					<a href="ERP.php"><a style="color:black">Enterprise Resource Planning</a></a></td></tr>		<br>
-							<br>
-					<a href="order-management.php"><a style="color:black">Order Management system</a></a>		<br>
-							<br>
-					 <a href="demand-palnning.php"><a style="color:black">Demand Planner</a></a>		<br>
+					<h3style="color:red">SERVICES</h3>	
+				
+					<h3  style="color:red">SERVICES</h3>
+			
+					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+						
+					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+							
+					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+						
+					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+						
+					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+							
+					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
 				    </div>
                     <div class="span9">
-					<div class="span3 pull-right">
-<img src="images/services/de1.jpg"></img>
-</div>
-				
-				 <div class="span6" style="margin:0px; height:60px;">
+					 <div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
-                                            <div class="caption-border-bottom"  style="width:260px;">
+                                            <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
                                                 <h3><a href="#">DEMAND PLANNER</a></h3>
                                             </div>
                                             </div>
                                           </div></div>
+					<div class="span4 pull-right">
+<img src="images/services/de1.jpg"></img>
+</div>
+				
+				
                           
 							<p>The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way will depend on the accuracy of the forecasting process in predicting the future demand. Demand forecasts drive the supply chain operations virtually for all manufacturing and distribution companies.  They are critical inputs to sales and operations planning (S&OP), production planning, inventory planning and distribution requirements planning activities.  Without these forecasts provided in a timely and efficient manner for all product items, the ERP and SCM systems that manage company planning activities would be seriously compromised, and the company’s ability to function and compete in the marketplace would be severely limited.</p>
 
@@ -105,11 +108,11 @@
 <img src="images/c-arrow.png" />	Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.<br>
 <img src="images/c-arrow.png" />	Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies<br>
 
-</div></div></div>
+</div></div></div></div>
                   
             <!-- /container -->
  <?php include_once 'footer.php';?>
-
+</div>
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
