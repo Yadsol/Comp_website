@@ -99,22 +99,22 @@
 <p>Reignsoft’s Business Intelligence services cover the entire analytical information architecture which includes data acquisition, data warehousing and business analytic tools. We have a complete, comprehensive set of service offerings which can help you evaluate, assess, deploy and maintain BI applications:</p>
 <br>
 <p>
-	BI/DW strategy and roadmap definition<br>
-	Setting up of BI Competency Centre<br>
-	BI/DW Audits and Health Checks<br>
-	BI/DW implementation, upgrade and support<br>
-	Data Governance - Data cleansing, integration and quality<br>
-	Rapid dashboard implementation frameworks<br>
-	Enablement of mobile BI<br>
+<img src="images/c-arrow.png" />	BI/DW strategy and roadmap definition<br>
+<img src="images/c-arrow.png" />	Setting up of BI Competency Centre<br>
+<img src="images/c-arrow.png" />	BI/DW Audits and Health Checks<br>
+<img src="images/c-arrow.png" />	BI/DW implementation, upgrade and support<br>
+<img src="images/c-arrow.png" />	Data Governance - Data cleansing, integration and quality<br>
+<img src="images/c-arrow.png" />	Rapid dashboard implementation frameworks<br>
+<img src="images/c-arrow.png" />	Enablement of mobile BI<br>
 
 <p>Our ease of use application enables higher productivity in reporting, and reduces the workload for the IT departments. Also Reports can be automatically scheduled and emailed; this enables users to get the information they want in actionable time.</p>
 <br>
 <h4 class="muted"> Key Features</h4>
 <br>
-	 Provides a business layer which is easy to understand<br>
-	Encapsulate data structure and its complexities from users<br>
-	Drag-and-drop reporting features, even business users can create their own reports<br>
-	Increased productivity for report creation and Low maintenance report changes<br>
+<img src="images/c-arrow.png" />	 Provides a business layer which is easy to understand<br>
+<img src="images/c-arrow.png" />	Encapsulate data structure and its complexities from users<br>
+<img src="images/c-arrow.png" />	Drag-and-drop reporting features, even business users can create their own reports<br>
+<img src="images/c-arrow.png" />	Increased productivity for report creation and Low maintenance report changes<br>
 
 <br>With our proven methodologies, deep expertise, and industry specialization, we can deliver actionable and measurable business results that inform decision-making, optimize IT efficiency, and improve business performance.
 

@@ -61,7 +61,7 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                      <div class="span3">
+                    
 					 <div class="span3" style=" margin:0px;border-right:1px solid silver;">
 					
 					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
@@ -99,14 +99,14 @@ A healthy inventory allows companies to grow revenues by meeting service levels 
 <br>
 <h4 class="muted">Key Features:</h4>
 <br>
-<p>•	Simultaneously solving minimum inventory levels across all echelons of the value chain, including plant, distribution centers and retailer locations<br>
-•	Addresses all classes of inventory including, finished goods, raw material and work in progress<br>
-•	Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals<br> 
-•	Reduces working capital requirements and frees up cash flow<br>
-•	Maximization of storage capacity<br>
-•	Allows you ship inventory soon by using Stock locator database.<br>
-•	Better traceability where a product is currently located.<br>
-•	uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting<br></p>
+<p><img src="images/c-arrow.png" />	Simultaneously solving minimum inventory levels across all echelons of the value chain, including plant, distribution centers and retailer locations<br>
+<img src="images/c-arrow.png" />	Addresses all classes of inventory including, finished goods, raw material and work in progress<br>
+<img src="images/c-arrow.png" />	Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals<br> 
+<img src="images/c-arrow.png" />	Reduces working capital requirements and frees up cash flow<br>
+<img src="images/c-arrow.png" />	Maximization of storage capacity<br>
+<img src="images/c-arrow.png" />	Allows you ship inventory soon by using Stock locator database.<br>
+<img src="images/c-arrow.png" />	Better traceability where a product is currently located.<br>
+<img src="images/c-arrow.png" />	uses an intuitive system of industry-proven weighted averages to provide advanced demand forecasting<br></p>
                         </div>
                     </div>
 

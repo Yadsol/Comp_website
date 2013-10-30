@@ -81,7 +81,7 @@
 				    </div>
                     <div class="span9">
 					<div class="span3 pull-right">
-<img  class="img img-circle" src="images/services/web1.gif"></img>
+<img  class="img" src="images/services/web2.jpg"></img>
 </div>
 				  <div class="span6" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >

@@ -63,7 +63,7 @@
             <div class="container content page">
 
                 <div class="row mobile-spacing-5">
-                    <div class="span3">
+                     <div class="span3" style=" margin:0px;border-right:1px solid silver;">
 					
 					<h4 style="color:red">SERVICES</h4></th></tr>		<br>
 							<br>
@@ -86,7 +86,7 @@
 				
 				 <div class="span6" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
-                                            <div class="caption-border-bottom">
+                                            <div class="caption-border-bottom"  style="width:260px;">
                                                 <div class="caption caption-arrow">
                                                 <h3><a href="#">DEMAND PLANNER</a></h3>
                                             </div>
@@ -99,11 +99,11 @@
 <br>
 <p class="muted"><h4>Key Features:</h4></p>
 </br>
-1)	Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.<br> 
-2)	Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.<br>
-3)	Get guidance and assurance from our team with experience in the trenches<br>
-4)	Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.<br>
-5)	Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies<br>
+<img src="images/c-arrow.png" />	Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.<br> 
+<img src="images/c-arrow.png" />	Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.<br>
+<img src="images/c-arrow.png" />	Get guidance and assurance from our team with experience in the trenches<br>
+<img src="images/c-arrow.png" />	Improved Sales and Operation management to manage sales and operation planning, capacity planning and inventory health management.<br>
+<img src="images/c-arrow.png" />	Better relationships with vendors, CPFR - Collaborative planning, forecasting and replenishment, continually measuring and improving supplier lead times, reduce operational defects, and improve systems to streamline operations between vendors and companies<br>
 
 </div></div></div>
                   

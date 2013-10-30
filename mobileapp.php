@@ -79,9 +79,9 @@
 							
 							<p>
 Mobile Application Development for Android & iPhone &iPad
-Mobile Application Development is an area where Reignsoft has in depth knowledge and expertise. Reignsoft Android App development as well as iPhone / iPad App development will help you to get quick mobile apps for you or your organization.
-Reignsoft Mobile Application development team is dedicated, experienced and consists of iOS& android experts to provide you the best mobile apps as per your requirement. Our App developers and technical team play a vital role each app development. They keep in contact with clients for the enrichment of app and Empower with exceptional app development.
-Whatever the business you are in: your potential customer needs to know very important information at the easy access. Reignsoft Mobile Application provides you the right set of functions to cut down your customized development costs and make you pay less & get more.</p>
+Mobile Application Development is an area where Reignsoft has in depth knowledge and expertise. Reignsoft Android App development as well as iPhone / iPad App development will help you to get quick mobile apps for you or your organization.</p>
+<p>Reignsoft Mobile Application development team is dedicated, experienced and consists of iOS& android experts to provide you the best mobile apps as per your requirement. Our App developers and technical team play a vital role each app development. They keep in contact with clients for the enrichment of app and Empower with exceptional app development.</p>
+<p>What ever the business you are in: your potential customer needs to know very important information at the easy access. Reignsoft Mobile Application provides you the right set of functions to cut down your customized development costs and make you pay less & get more.</p>
                        
                     </div>
 					</div>

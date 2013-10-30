@@ -99,11 +99,11 @@
 <h4 class="muted">Key Features</h4>
 <br>
 <p>
-1) Improve Productivity and Quality, Companies are expected to control costs, and unnecessary complexity drives up costs. fewer resources to sustain quality & deliver on-time.<br>
-2) Decision Making Based on Facts, which will ensure your conclusions are accepted, implemented, and built on over time throughout your company<br>
-3) Anywhere and Anytime Access, allows accessibility throughout companies and allows better identifying bottlenecks.<br>  
-4) Reduce costs, spend on goods and services. Increase in Profitable growth that creates value.<br> 
-5) Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results<br></p>
+<img src="images/c-arrow.png" /> Improve Productivity and Quality, Companies are expected to control costs, and unnecessary complexity drives up costs. fewer resources to sustain quality & deliver on-time.<br>
+<img src="images/c-arrow.png" /> Decision Making Based on Facts, which will ensure your conclusions are accepted, implemented, and built on over time throughout your company<br>
+<img src="images/c-arrow.png" /> Anywhere and Anytime Access, allows accessibility throughout companies and allows better identifying bottlenecks.<br>  
+<img src="images/c-arrow.png" /> Reduce costs, spend on goods and services. Increase in Profitable growth that creates value.<br> 
+<img src="images/c-arrow.png" /> Performance Monitoring. Deliver performance results in a timely manner to everyone in the organization that can impact those results<br></p>
 
 
                     </div>

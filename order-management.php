@@ -101,13 +101,13 @@ Reignsoft provides a standard solution to fulfill you order through web based so
 <br>
 <h4 class="muted">Key Features</h4>
 <br>
-	Effective Order Management system that is automatically integrated with the accounting system and inventory control.<br>
-	Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.<br>
-	Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.<br>
-	Real-time status updates, verification, monitoring, and reporting<br>
-	Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication<br>
-	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
-	On-demand generation and printing of shipping documents and labels<br>
+<img src="images/c-arrow.png" />	Effective Order Management system that is automatically integrated with the accounting system and inventory control.<br>
+<img src="images/c-arrow.png" />	Seamless Order Fulfillment mechanism that and provides a complete visibility throughout the order cycle from receiving orders to successful order to fulfillment.<br>
+<img src="images/c-arrow.png" />	Automates all aspects from billing to timely invoicing to payment that results in improved operational efficiencies.<br>
+<img src="images/c-arrow.png" />	Real-time status updates, verification, monitoring, and reporting<br>
+<img src="images/c-arrow.png" />	Provides instructions for sortation, diverting and tracking of cartons as they move throughout the distribution center Bi-directional host communication<br>
+<img src="images/c-arrow.png" />	Purchase Order Management tracking status of each purchase to fulfill placed orders.<br>
+<img src="images/c-arrow.png" />	On-demand generation and printing of shipping documents and labels<br>
 <br>
                        
                     </div>

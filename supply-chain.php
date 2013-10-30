@@ -96,12 +96,12 @@
 
 <h4 class="muted">Key Features:</h4><br>
 <p>
-1) Quickly understand the implications of multiple strategic supply chain alternatives, including their impact on bottom line costs<br>
-2) Compare business options with multi-scenario planning<br>
-3) Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency<br>
-4) Advanced predictive and big data analytics for better demand forecast.<br>
-5) Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery<br>
-6) Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
+<img src="images/c-arrow.png" /> Quickly understand the implications of multiple strategic supply chain alternatives, including their impact on bottom line costs<br>
+<img src="images/c-arrow.png" /> Compare business options with multi-scenario planning<br>
+<img src="images/c-arrow.png" /> Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency<br>
+<img src="images/c-arrow.png" /> Advanced predictive and big data analytics for better demand forecast.<br>
+<img src="images/c-arrow.png" /> Decreased warehousing, logistics and transportation costs and more reliable quoting and delivery<br>
+<img src="images/c-arrow.png" /> Effective forecasting from complex data sets flowing into the business from multiple sources.<br></p>
 
                        
                     </div>
