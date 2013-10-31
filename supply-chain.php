@@ -71,7 +71,7 @@
                                             </div>
                                             </div>
                                           </div></div>
-						<div class="span4 pull-right" style="padding-top:50px;">
+						<div class="span4 pull-right" style="margin-right:0px;padding-right:50px;padding-top:50px;">
 <img src="images/services/scm1.jpg"></img>
 </div>                       
                         

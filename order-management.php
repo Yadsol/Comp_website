@@ -47,7 +47,7 @@
 			
 					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>
 						
-					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
+					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planner</div></a>
 							
 					<a style="color:black" href ="inventary-management.php"><div class="c">Inventory Management System</div></a>
 						

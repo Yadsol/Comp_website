@@ -49,10 +49,10 @@
 
                 <div class="row mobile-spacing-5">
                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">Solutions</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SOLUTIONS</h3>
 				    <a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>
 						
-					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
+					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planner</div></a>
 							
 					<a style="color:black" href ="inventary-management.php"><div class="c">Inventory Management System</div></a>
 						
