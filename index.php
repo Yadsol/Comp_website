@@ -86,7 +86,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">Retail Management System</a></h3>
+                                                    <h3><a href="retail-management.php">Retail Management System</a></h3>
                                                     <p>
                                                        A powerful business management solution developed specifically for retailers. It is designed to escalate profit in a challenging market by increasing sales and successfully.
                                                     </p>
@@ -107,7 +107,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">Supply Chain Planner</a></h3>
+                                                    <h3><a href="supply-chain.php">Supply Chain Planner</a></h3>
                                                     <p>
                                                        Reignsoft supply chain planner lets you perform strategic, long-term planning of your supply chain and make informed decisions regarding major activities such as plant or capital investments.
                                                     </p>
@@ -131,7 +131,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">Inventory Management System</a></h3>
+                                                    <h3><a href="inventary-management.php">Inventory Management System</a></h3>
                                                     <p>
                                                        Next generation solution that uses better math and daily granularity to overcome the limitations of traditional inventory optimization tools, which allows you to reduce manual process and save time and money required to control inventory.
                                                     </p>
@@ -153,7 +153,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">Demand Planner</a></h3>
+                                                    <h3><a href="demand-planner.php">Demand Planner</a></h3>
                                                     <p>
                                                         The production planning cannot be accomplished unless the volume of the demand known. The success of the business in supplying the demand in the most efficient & profitable way.
                                                     </p>
@@ -177,7 +177,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">ERP</a></h3>
+                                                    <h3><a href="ERP.php">ERP</a></h3>
                                                     <p>
                                                         Enterprise resource planning (ERP) is business management software that allows an enterprise to use a system of integrated applications to manage the business processes. 
                                                     </p>
@@ -197,7 +197,7 @@
                                             <div class="caption-border-bottom">
                                                 <div class="caption  caption-arrow">
                                                     <div class="thumbnail-arrow"></div>
-                                                    <h3><a href="#">Order Management System</a></h3>
+                                                    <h3><a href="order-management.php">Order Management System</a></h3>
                                                     <p>
                                                         Today’s global managers require comprehensive multi-asset class order management tools that seamlessly combine mission critical firm-wide information with real-time market data. 
 													</p>

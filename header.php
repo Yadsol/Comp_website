@@ -7,12 +7,12 @@
                 <div class="span6">
                     <div class="pull-right">
                         <div class="call-us">
-                            CALL US: +91-80-41709415
+                            CALL US: +91-7667328485
                         </div>
                         <div class="social">
-                            <span><a href="#" class="social-icon-twitter"></a></span>
-                            <span><a href="#" class="social-icon-linkedin"></a></span>
-                            <span><a href="#" class="social-icon-facebook"></a></span>
+                            <span><a href="http://twitter.com" class="social-icon-twitter"></a></span>
+                            <span><a href="http://linkedin.com" class="social-icon-linkedin"></a></span>
+                            <span><a href="http://facebook.com" class="social-icon-facebook"></a></span>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                 
                 <li class="divider-vertical"></li>
                 <li id="services" class="dropdown">
-                    <a href="services.php"><span>Services</span></a>
+                    <a><span>Services</span></a>
                     <ul class="dropdown-menu">
                         <li>
                             <a href="mobileapp.php">Mobile Application Development</a>

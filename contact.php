@@ -440,9 +440,9 @@ if( empty( $_SESSION['form_type'] ) ) {
                                 </address>
 
                                 <address>
-                                    Tel: +91-80-41709415
+                                    Tel: +91-422-3301277
                                     <br>
-                                    Mob: +91-87-92328485
+                                    Mob: +91-7667328485
                                     <br>
                                     <a href="mailto:contact@reignsoft.in">contact@reignsoft.in</a>
                                 </address>

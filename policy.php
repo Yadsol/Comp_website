@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Reignsoft-MOBILE APPLICATION </title>
+        <title>Reignsoft-About us</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -29,88 +29,71 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
-		<style>
-		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
-		</style>
     </head>
 
     <body>
 
         <div class="boxed-container">
+		 
 
             <div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
             </div>
 
- 
+            <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
-			<div class="row mobile-spacing-5">
-           <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
-					
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
-			
-					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
-						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
-							
-					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
-						
-					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
-						
-					<a  style="color:black" href="order-management.php">Order Management system</a><br>
-							
-					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
-				    </div>
-                
 
-                    <div class="span9">
-					<div class="span9" style="margin:0px;height:60px;">
-					
+                <div class="row mobile-spacing-5">
+
+                    <div class="span12">
+                        <div class="span12" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">MOBILE APPLICATION DEVELOPMENT</a></h3>
+                                                <h3><a href="#">OUR POLICY:</a></h3>
                                             </div>
                                             </div>
                                           </div></div>
-						<div class="span4 pull-right" style="padding:50px;">
-<img src="images/services/mo1.jpg"></img>
-</div>
-                        
-                            
-                           
-							
-							<p>
-Mobile Application Development for Android & iPhone &iPad
-Mobile Application Development is an area where Reignsoft has in depth knowledge and expertise. Reignsoft Android App development as well as iPhone / iPad App development will help you to get quick mobile apps for you or your organization.</p>
-<p>Reignsoft Mobile Application development team is dedicated, experienced and consists of iOS& android experts to provide you the best mobile apps as per your requirement. Our App developers and technical team play a vital role each app development. They keep in contact with clients for the enrichment of app and Empower with exceptional app development.</p>
-<p>What ever the business you are in: your potential customer needs to know very important information at the easy access. Reignsoft Mobile Application provides you the right set of functions to cut down your customized development costs and make you pay less & get more.</p>
-                       
                     </div>
-					</div></div>
 
-                  
+                    <div class="span12">
+                        <p>
+                           Reign soft is a solution provider for various systems in Information Technology. We in our development process follow legacy systems. Our operation towards IT development was made in India and offered consulting and development services in software and hardware design to multiple clients.Reignsoft is a growing company providing innovative IT solutions and services to a variety of companies and Organizations. Excellence of individuals who form a united and exceptional team, as many rings put stronger a chain, all of us, with its distinctive features and expertise, increases the strength of this chain that is Reignsoft. Professionals, innovative, young and passionate of our work, we give the best of us in any situation without ever escape a challengeAt Reignsoft, we understand that cutting edge solutions that define the future are not built by asking the usual questions. We don’t find them on the tried and tested path. From our experience, we know that it takes imagination, perseverance, and courage to innovate.
+                        </p>
+
+                        <img src="images/dummy/about/company.jpg" class="pull-right distance-left" alt="">
+
+                        <p>
+                            We try to offer high quality web and software products and services. Reignsoft specializes in the creation of portal and website management systems and e-commerce products and designing back-end systems for complex business application. Reignsoft also offer a broad portfolio of integrated planning and execution solutions and services to help firms manage the entire supply chain from manufacturing to delivering to end customers for Small to Mid Sized organizations. Reignsoft, have built a strong reputation for providing exceptional service, and results to all out clients.Reignsoft is a growing company providing innovative IT solutions and services to a variety of companies and Organizations. Excellence of individuals who form a united and exceptional team, as many rings put stronger a chain, all of us, with its distinctive features and expertise, increases the strength of this chain that is Reignsoft. Professionals, innovative, young and passionate of our work, we give the best of us in any situation without ever escape a challenge
+                        </p>
+
+                        <blockquote>
+                            Reignsoft Main Goal
+                        </blockquote>
+
+                        <p>
+                           At Reignsoft, we understand that cutting edge solutions that define the future are not built by asking the usual questions. We don’t find them on the tried and tested path. From our experience, we know that it takes imagination, perseverance, and courage to innovate.
+                        </p>
+
+                        <p>
+                            We try to offer high quality web and software products and services. Reignsoft specializes in the creation of portal and website management systems and e-commerce products and designing back-end systems for complex business application. Reignsoft also offer a broad portfolio of integrated planning and execution solutions and services to help firms manage the entire supply chain from manufacturing to delivering to end customers for Small to Mid Sized organizations. Reignsoft, have built a strong reputation for providing exceptional service, and results to all out clients.
+                        </p>
+                    </div>
+                </div>
+            </div>
             <!-- /container -->
  <?php include_once 'footer.php';?>
-</div></div>
+
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#services').addClass('active mobile-active');
-	   $('body').addClass('boxed');
+           $('#aboutus').addClass('active mobile-active');
+           $('body').addClass('boxed');
  });
 </script>
 <script src="js/bootstrap.min.js"></script>

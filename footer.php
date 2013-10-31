@@ -3,28 +3,28 @@
 
                     <div class="row">
                         <div class="span5 foot-item">
-                             <h4>Services</h4>
+                             <h4 style="font-family: Verdana;font-size:16px;font-weight:bold;">Services</h4>
                              <p>
-                                <a href="Business.php">Business intelligence </a>
+                                <a style="text-decoration: none;"href="Business.php">Business intelligence </a>
                             </p>
                              <p>
-                                <a href="webapp.php">Web Development </a>
+                                <a style="text-decoration: none;"href="webapp.php">Web Development </a>
                             </p>
                             <p>
-                               <a href="mobileapp.php"> Mobile Application Development </a>
+                               <a style="text-decoration: none;"href="mobileapp.php"> Mobile Application Development </a>
                             </p>
                         </div>
 
                        <div class="span4 foot-item">
                             <h4>Company</h4>
                             <p>
-                               <a href="about-us.php"> Overview</a>
+                               <a style="text-decoration: none;" href="overview.php"> Overview</a>
                             </p>
                             <p>
-                               <a href="about-us.php"> Why Reignsoft</a>
+                               <a style="text-decoration: none;" href="whyreg.php"> Why Reignsoft</a>
                             </p>
                             <p>
-                               <a href="about-us.php"> Our Policy</a>
+                               <a style="text-decoration: none;" href="policy.php"> Our Policy</a>
                             </p>
                         </div>
 

@@ -3797,7 +3797,7 @@ a.menu:after, .dropdown-toggle:after {
         color: #333333;
         text-decoration: none; }
   .thumbnail:hover {
-    background-color: whitesmoke;
+    background-color: white;
     cursor: pointer;
     border-top: 2px #d71402 solid;
     cursor: default; }
@@ -5576,4 +5576,21 @@ body {
     border: 1px solid #eee;
     -webkit-border-radius: 6px;
 }
+.span3  a
+{
+color:red;
+text-decoration: none;
+}
 
+
+.span3 : a:hover
+{
+text-decoration: none;
+color:red;
+
+}
+.span a.c
+{
+color:red;
+text-decoration: none;
+}

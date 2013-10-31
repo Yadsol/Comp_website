@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -29,54 +29,43 @@ DOCTYPE html>
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
+		<style>
+		
+		div.c
+		{
+		color:black;
+		}
+		div.c:hover
+		{
+		color:red;
+		}
+		</style>
     </head>
 
     <body>
 
         <div class="boxed-container">
-		 <div id="gw-switcher">
-            <div class="gw-switcher-body">
-                <div class="gw-switcher-row gw-switcher-header">
-                    <h1>Style Selector</h1>
-                </div>
-                <div class="gw-switcher-tab">
-                    <a href="#"></a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-boxed"><span></span>Wide / Boxed</a>
-                </div>
-                <div class="gw-switcher-row">
-                    <a href="#" class="go-switcher-opt-sticky go-switcher-opt-checked"><span></span>Static / Sticky</a>
-                </div>
-            </div>
-        </div>
-
-            <div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar navbar-inverse navbar-fixed-top">
                 <div class="navbar-head">
                     <?php include_once 'header.php';?>
             </div>
-
-          
-  
-
-            <div class="container content page">
+			<div class="container content page">
 			      <div class="row mobile-spacing-5">
                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
-					<h3  style="color:red">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
-					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>
 						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
 							
-					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+					<a style="color:black" href ="inventary-management.php"><div class="c">Inventory Management System</div></a>
 						
-					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+					<a  style="color:black" href="ERP.php"><div class="c">Enterprise Resource Planning</div></a>
 						
-					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+					<a  style="color:black" href="order-management.php"><div class="c">Order Management system</div></a>
 							
-					<a  style="color:black" href="demand-palnning.php">Demand Planner</a><br>
-				    </div>
+					<a  style="color:black" href="demand-planner.php"><div class="c">Demand Planner</div></a>				    </div>
           
 
                     <div class="span9">
@@ -90,7 +79,7 @@ DOCTYPE html>
                                             </div>
                                           </div></div>
 						<div class="span4 pull-right" style="padding:50px;">
-<img src="images/services/re1.jpg"></img>
+<img src="images/services/or1.jpg"></img>
 </div>
                         
                            

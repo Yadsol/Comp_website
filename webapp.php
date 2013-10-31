@@ -50,7 +50,7 @@
                 <div class="row mobile-spacing-5">
                      <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;" >
 					
-					<h3  style="color:red">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
 					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
 						
@@ -69,12 +69,12 @@
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">WEB APPLICATION</a></h3>
+                                                <h3><a href="#">WEB APPLICATION DEVELOPMENT</a></h3>
                                             </div>
                                             </div>
                                           </div></div>
 					<div class="span4 pull-right"style="padding:50px;">
-<img  class="img" src="images/services/web2.jpg"></img>
+<img  class="img" src="images/services/web3.jpg"></img>
 </div>
 				 
                             

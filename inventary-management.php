@@ -29,6 +29,17 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
+		<style>
+		
+		div.c
+		{
+		color:black;
+		}
+		div.c:hover
+		{
+		color:red;
+		}
+		</style>
     </head>
 
     <body>
@@ -48,19 +59,18 @@
                     
 					 <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240;">
 					
-					<h3  style="color:red">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
-					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
-						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>			
+					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
 							
-					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
+					<a style="color:black" href ="inventary-management.php"><div class="class">Inventory Management System</div></a>
 						
-					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
+					<a  style="color:black" href="ERP.php"><div class="c">Enterprise Resource Planning</div></a>
 						
-					<a  style="color:black" href="order-management.php">Order Management system</a><br>
+					<a  style="color:black" href="order-management.php"><div class="c">Order Management system</div><a>
 							
-					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
+					<a  style="color:black" href="demand-planner.php"><div class="c">Demand Planner</div></a>
 				    </div>
                     <div class="span9">
 					
@@ -73,7 +83,7 @@
                                             </div>
                                           </div></div>
 					<div class="span4 pull-right" style="padding:50px;">
-<img src="images/services/in1.jpg"></img>
+<img src="images/services/in2.jpg"></img>
 </div>                  
                          
 				
