@@ -17,6 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
+		<link href="stylesheets/style.css" rel="stylesheet">
 
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -31,14 +32,7 @@
         <link rel="shortcut icon" href="favicon.ico">
 		<style>
 		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
+		
 		</style>
     </head>
 
@@ -59,12 +53,12 @@
                     
 					 <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
 					
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SOLUTIONS</h3>
 			
 					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>			
 					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
 							
-					<a style="color:black" href ="inventary-management.php"><div class="class">Inventory Management System</div></a>
+					<a><div class="muted">Inventory Management System</div></a>
 						
 					<a  style="color:black" href="ERP.php"><div class="c">Enterprise Resource Planning</div></a>
 						
@@ -78,7 +72,7 @@
 							   <div class="thumbnail" style="border-top:0px; background-color:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">Inventory Management System</a></h3>
+                                                <h3><div class="t">INVENTORY MANAGEMENT SYSTEM</div></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -93,7 +87,7 @@
 A healthy inventory allows companies to grow revenues by meeting service levels while minimizing inventory investments, freeing cash flow and incurring low waste. The importance of striking a healthy balance becomes especially relevant in today’s volatile markets, where varying input costs and changes in consumer demand continually challenge manufacturers and retailers. Our inventory management system provides exact time to reorder product which helps organization to avoid running out of products or tying up too much capital in inventory. Our inventory system helps staff to track each lot specific to each distributors’ requirements. Our software allows you to assign each lot an individual number, making it easier to track a product’s genealogy and assign numerous attributes to each.</p>
 <br>
 <h4 class="muted">Key Features:</h4>
-<br>
+
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Addresses all classes of inventory including, finished goods, raw material and work in progress.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Solves maximum levels in order to avoid waste that eats into margins and impact sustainability goals.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Reduces working capital requirements and frees up cash flow</div></div><br>

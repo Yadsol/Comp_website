@@ -17,7 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
-
+<link href="stylesheets/style.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -55,31 +55,24 @@
 
             <div class="container content page">
 			<div class="row mobile-spacing-5">
-           <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
+        
+                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;" >
 					
 					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
-					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+					<a  style="color:black"href="webapp.php"><div class="c">Web Application Development</div></a>
 						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+					<a><div class="muted">Mobile Application Development</div></a>
 							
-					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
-						
-					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
-						
-					<a  style="color:black" href="order-management.php">Order Management system</a><br>
-							
-					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
-				    </div>
-                
-
+					<a style="color:black" href ="Business.php"><div class="c">Business Intelligences</div></a>
+					</div>
                     <div class="span9">
 					<div class="span9" style="margin:0px;height:60px;">
 					
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">MOBILE APPLICATION DEVELOPMENT</a></h3>
+                                                <h3><div class="t">MOBILE APPLICATION DEVELOPMENT</div></h3>
                                             </div>
                                             </div>
                                           </div></div>

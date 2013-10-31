@@ -17,7 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
-
+<link href="stylesheets/style.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -31,14 +31,7 @@
         <link rel="shortcut icon" href="favicon.ico">
 		<style>
 		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
+		
 		</style>
     </head>
 
@@ -56,10 +49,10 @@
                 <div class="row mobile-spacing-5">
                       <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
 					
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SOLUTIONS</h3>
 			
 					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>					
-					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</a></div>
+					<a><div class="muted">Supply Chain Planner</div></a>
 							
 					<a style="color:black" href ="inventary-management.php"><div class="c">Inventory Management System</div></a>
 						
@@ -74,7 +67,7 @@
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">SUPPLY CHAIN MANAGEMENT</a></h3>
+                                                <h3><div class="t">SUPPLY CHAIN MANAGEMENT</div></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -89,7 +82,7 @@
 <br>
 <p>Reignsoft supply Chain Planner can help businesses build one globally synchronized plan that responds quickly to supply and demand volatility, increasing both customer satisfaction and profits.</p>
 
-<h4 class="muted">Key Features:</h4><br>
+<h4 class="muted">Key Features:</h4>
 <p>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Compare business options with multi-scenario planning.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Optimize profits, improve customer service, balance capacity, lower inventory levels, and improve sourcing efficiency.</div></div><br>

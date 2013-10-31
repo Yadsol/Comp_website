@@ -17,7 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
-<link href="stylesheets/bottom.css" rel="stylesheet">
+<link href="stylesheets/style.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,17 +29,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
-		<style>
 		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
-		</style>
     </head>
 
     <body>
@@ -59,9 +49,9 @@
                 <div class="row mobile-spacing-5">
                       <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;">
 					
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SOLUTOINS</h3>
 			
-					<a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>
+					<a><div class="muted">Retail Management System</div></a>
 						
 					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planner</div></a>
 							
@@ -77,7 +67,7 @@
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">RETAIL MANAGEMENT SYSTEM</a></h3>
+                                                <h3><div class="t">RETAIL MANAGEMENT SYSTEM</div></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -91,7 +81,7 @@
 RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
 <br>
 <h4 class="muted">Key Features</h4>
-<br><p>
+<p>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px">Immediately access prices, availability, and stock location through the customizable POS screen</div></div><br>

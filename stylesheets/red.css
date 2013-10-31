@@ -5578,7 +5578,7 @@ body {
 }
 .span3  a
 {
-color:red;
+color:black;
 text-decoration: none;
 }
 
@@ -5586,11 +5586,8 @@ text-decoration: none;
 .span3 : a:hover
 {
 text-decoration: none;
-color:red;
+color:black;
 
 }
-.span a.c
-{
-color:red;
-text-decoration: none;
-}
+
+

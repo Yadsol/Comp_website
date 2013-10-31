@@ -17,7 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
-
+<link href="stylesheets/style.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -52,7 +52,7 @@
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">OUR POLICY:</a></h3>
+                                                <h3><div class="t">OUR POLICY:</div></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -63,7 +63,7 @@
                            Reign soft is a solution provider for various systems in Information Technology. We in our development process follow legacy systems. Our operation towards IT development was made in India and offered consulting and development services in software and hardware design to multiple clients.Reignsoft is a growing company providing innovative IT solutions and services to a variety of companies and Organizations. Excellence of individuals who form a united and exceptional team, as many rings put stronger a chain, all of us, with its distinctive features and expertise, increases the strength of this chain that is Reignsoft. Professionals, innovative, young and passionate of our work, we give the best of us in any situation without ever escape a challengeAt Reignsoft, we understand that cutting edge solutions that define the future are not built by asking the usual questions. We don’t find them on the tried and tested path. From our experience, we know that it takes imagination, perseverance, and courage to innovate.
                         </p>
 
-                        <img src="images/dummy/about/company.jpg" class="pull-right distance-left" alt="">
+                        <img src="images/services/po1.jpg" class="pull-right distance-left" alt="">
 
                         <p>
                             We try to offer high quality web and software products and services. Reignsoft specializes in the creation of portal and website management systems and e-commerce products and designing back-end systems for complex business application. Reignsoft also offer a broad portfolio of integrated planning and execution solutions and services to help firms manage the entire supply chain from manufacturing to delivering to end customers for Small to Mid Sized organizations. Reignsoft, have built a strong reputation for providing exceptional service, and results to all out clients.Reignsoft is a growing company providing innovative IT solutions and services to a variety of companies and Organizations. Excellence of individuals who form a united and exceptional team, as many rings put stronger a chain, all of us, with its distinctive features and expertise, increases the strength of this chain that is Reignsoft. Professionals, innovative, young and passionate of our work, we give the best of us in any situation without ever escape a challenge

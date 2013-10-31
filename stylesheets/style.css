@@ -1,0 +1,21 @@
+
+
+.thumbnail:hover .caption-border-bottom {
+      border-bottom: 2px solid red !important;
+	  }
+	  
+	  div.c
+		{
+		color:black;
+		}
+		div.c:hover
+		{
+		color:red;
+		}
+	div.t
+		{
+		color:red;
+		div.t:hover
+		{
+		color:red;
+		}

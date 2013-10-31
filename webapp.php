@@ -17,7 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
-
+<link href="stylesheets/style.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -46,30 +46,23 @@
             <!-- /fullwidthbanner-container -->
 
             <div class="container content page">
-
-                <div class="row mobile-spacing-5">
-                     <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;" >
+                     <div class="row mobile-spacing-5">
+                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;">
 					
 					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
-					<a  style="color:black"href="retail-management.php">Retail Management System</a><br>
+					<a><div class="muted">Web Application Development</div></a>
 						
-					<a style="color:black" href="Supply-chain.php">Supply Chain Planne</a><br>
+					<a style="color:black" href="mobileapp.php"><div class="c">Mobile Application Development</div></a>
 							
-					<a style="color:black" href ="inventary-management.php">Inventory Management System</a><br>
-						
-					<a  style="color:black" href="ERP.php">Enterprise Resource Planning</a><br>
-						
-					<a  style="color:black" href="order-management.php">Order Management system</a><br>
-							
-					<a  style="color:black" href="demand-planner.php">Demand Planner</a><br>
-				    </div>
+					<a style="color:black" href ="Business.php"><div class="c">Business Intelligences</div></a>
+					</div>
                     <div class="span9">
 					 <div class="span9" style=" margin:0px;height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">WEB APPLICATION DEVELOPMENT</a></h3>
+                                                <h3><a><div class="t">WEB APPLICATION DEVELOPMENT</div></a></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -82,7 +75,7 @@
 RRMS Take the lead in your relationships with your distributors with accurate, timely data about sales, profitability, inventory, and customers, you can know exactly what’s selling best, who’s buying, and when; decide on a dime what to buy or mark down; and track return on investment for marketing initiatives.</p>
 <br>
 <h4 class="muted">Key Features</h4>
-<br><p>
+<p>
 
 
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;">Establish realistic reorder points that help keep you from stocking your shelves with products that are not moving quickly.</div></div><br>

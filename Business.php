@@ -29,18 +29,8 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
-		
-		<style>
-		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
-		</style>
+		<link href="stylesheets/style.css" rel="stylesheet">
+
     </head>
 
     <body>
@@ -60,28 +50,22 @@
 
                 <div class="row mobile-spacing-5">
 				 
-                  <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
+                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;" >
 					
 					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
-					<a  style="color:black" href="retail-management.php"><div class="c">Retail Management System</div></a>
-					
-					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
-							
-					<a style="color:black" href ="inventary-management.php"><div class="c">Inventory Management System</div></a>
+					<a  style="color:black"href="webapp.php"><div class="c">Web Application Development</div></a>
 						
-					<a  style="color:black" href="ERP.php"><div class="c">Enterprise Resource Planning</div></a>
-						
-					<a  style="color:black" href="order-management.php"><div class="c">Order Management system</div></a>
+					<a style="color:black" href="mobileapp.php"><div class="c">Mobile Application Development</div></a>
 							
-					<a  style="color:black" href="demand-planner.php"><div class="c">Demand Planner</div></a>
-				    </div>
+					<a><div class="muted">Business Intelligences</div></a>
+					</div>
                     <div class="span9">
 					<div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">BUSINESS INTELLIGENCE</a></h3>
+                                                <h3><div class="t">BUSINESS INTELLIGENCE</div></h3>
                                             </div></div></div></div>
 					
 					<div class="span4 pull-right" style="padding:50px;">
@@ -105,7 +89,7 @@
 <p>Our ease of use application enables higher productivity in reporting, and reduces the workload for the IT departments. Also Reports can be automatically scheduled and emailed; this enables users to get the information they want in actionable time.</p>
 <br>
 <h4 class="muted"> Key Features</h4>
-<br>
+
 <img src="images/c-arrow.png" />	 Provides a business layer which is easy to understand<br>
 <img src="images/c-arrow.png" />	Encapsulate data structure and its complexities from users<br>
 <img src="images/c-arrow.png" />	Drag-and-drop reporting features, even business users can create their own reports<br>
@@ -125,7 +109,7 @@
 <script src="js/jquery.js"></script>
 <script>
  $(function() {
-	   $('#aboutus').addClass('active mobile-active');
+	    $('#services').addClass('active mobile-active');
 	   $('body').addClass('boxed');
  });
 </script>

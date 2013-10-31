@@ -17,6 +17,7 @@
         <link href="stylesheets/responsive.css" rel="stylesheet">
         <link href="js/rs-plugin/css/settings.css" rel="stylesheet">
         <link href="stylesheets/red.css" rel="stylesheet">
+		<link href="stylesheets/style.css" rel="stylesheet">
 
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -29,17 +30,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon/72x72.png">
         <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon/57x57.png">
         <link rel="shortcut icon" href="favicon.ico">
-		<style>
-		
-		div.c
-		{
-		color:black;
-		}
-		div.c:hover
-		{
-		color:red;
-		}
-		</style>
+	
     </head>
 
     <body>
@@ -58,7 +49,7 @@
 
                 <div class="row mobile-spacing-5">
                   <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px; height:240px;">
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
+					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">Solutions</h3>
 				    <a  style="color:black"href="retail-management.php"><div class="c">Retail Management System</div></a>
 						
 					<a style="color:black" href="Supply-chain.php"><div class="c">Supply Chain Planne</div></a>
@@ -69,14 +60,14 @@
 						
 					<a  style="color:black" href="order-management.php"><div class="c">Order Management system</div></a>
 							
-					<a  style="color:black" href="demand-planner.php"><div class="c">Demand Planner</div></a>
+					<a><div class="muted">Demand Planner</div></a>
 				    </div>
                     <div class="span9">
 					 <div class="span9" style="margin:0px; height:60px;">
 							   <div class="thumbnail" style="border-top:0px;" >
                                             <div class="caption-border-bottom">
                                                 <div class="caption caption-arrow">
-                                                <h3><a href="#">DEMAND PLANNER</a></h3>
+                                                <h3><div class="t">DEMAND PLANNER</div></h3>
                                             </div>
                                             </div>
                                           </div></div>
@@ -91,7 +82,6 @@
 <p>Reignsoft Demand Planner system achieves high accuracy by making realistic estimates of the errors likely to be encountered when using a particular method to forecast a particular item or group of products. It automatically selects the best statistical forecasting method for your demand data and handles all the math, easily incorporating trends, seasonal patterns and the effects of sales promotions and other special events. Our system provides graphical presentation of growth and problem areas and to overcome the same.</p>
 <br>
 <p class="muted"><h4>Key Features:</h4></p>
-</br>
 
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px;"> Learn a smarter way to buy plan, replenish and balancing the need to keep demand fulfillment high and inventory levels low, while freeing up cash to re-invest.</div></div><br>
 <div class="span9" style="margin:0px;"><div class="span1" style="width:10px"><img src="images/c-arrow.png" /></div><div class="span8 pull-right" style="margin:0px;width:680px"> Gain knowledge of all aspects of the system—from safety stock management to seasonal forecasting, from meeting logistics constraints to projecting replenishment needs—they'll know the ins and outs that drive profit.</div></div><br>
