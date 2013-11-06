@@ -63,9 +63,13 @@
                 <div class="row mobile-spacing-5">
 
                     <div class="span12">
-                        <div class="page-header arrow-grey">
-                            <h2>About Reignsoft</h2>
-                        </div>
+                        <div class="thumbnail" style="border-top:0px;" >
+                                            <div class="caption-border-bottom">
+                                                <div class="caption caption-arrow">
+                                                <h3><div class="t">About Reignsoft:</div></h3>
+                                            </div>
+                                            </div>
+                                          </div>
                     </div>
 
                     <div class="span12">

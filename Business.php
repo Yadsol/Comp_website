@@ -52,7 +52,7 @@
 				 
                    <div class="span3" style="line-height:30px;margin-right:0px;border-right:2px solid red; width:200px;height:240px;" >
 					
-					<h3  style="color:red;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
+					<h3  style="color: #d71402;font-family: Verdana;font-size:16px;font-weight:bold;">SERVICES</h3>
 			
 					<a  style="color:black"href="webapp.php"><div class="c">Web Application Development</div></a>
 						
