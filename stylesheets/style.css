@@ -14,8 +14,9 @@
 		}
 	div.t
 		{
-		color: #d71402;;
-		div.t:hover
+		color: #d71402;
+		}
+	div.t:hover
 		{
-		color:red;
+		color: #d71402;
 		}

@@ -26,6 +26,9 @@
                             <p>
                                <a style="text-decoration: none;" href="policy.php"> Our Policy</a>
                             </p>
+							<p>
+                               <a style="text-decoration: none;" href="customer.php"> Client</a>
+                            </p>
                         </div>
 
                         <div class="span3 foot-item">

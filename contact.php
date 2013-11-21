@@ -223,7 +223,7 @@ if( empty( $_SESSION['form_type'] ) ) {
                     <?php include_once 'header.php';?>
             </div>
 
-            <div class="fullwidthbanner-subpage-container google-map">
+            <!--<div class="fullwidthbanner-subpage-container google-map">
 
                 <div class="parallax-slider">
                 	<div id="gmap"></div>
@@ -239,7 +239,7 @@ if( empty( $_SESSION['form_type'] ) ) {
                 	</div>
                 </div>
 
-            </div>
+            </div>-->
             <!-- /fullwidthbanner-container -->
 
             <div class="container content">
@@ -433,11 +433,11 @@ if( empty( $_SESSION['form_type'] ) ) {
 
                             <div class="span3">
 
-                                <address>
+                                <!--<address>
                                     43,1 st floor L3, 7th Cross Rd, <br>Maruthi Nagar,
                                     <br>
                                     Bangalore, KA 560068, India 
-                                </address>
+                                </address>-->
 
                                 <address>
                                     Tel: +91-422-3301277

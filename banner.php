@@ -15,10 +15,10 @@
                                     data-x="0"
                                     data-y="182"
                                     data-speed="603" data-start="1100" data-easing="easeOutBack">
-                                        H1 Title
+                                        We Specialize in HTML CSS and  PHP Sites...
                                     </div>
                     
-                                    <div class="caption sfb fadeout normal-text"
+                                    <!--<div class="caption sfb fadeout normal-text"
                                     data-x="0"
                                     data-y="223"
                                     data-speed="600" data-start="1300" data-easing="easeOutBack">
@@ -36,7 +36,7 @@
                                         <button type="submit" class="btn btn-black">
                                             View details
                                         </button>
-                                    </div>
+                                    </div>-->
                                 </li>
                                 
                                 <li data-transition="fade" data-slotamount="1">
@@ -49,14 +49,14 @@
                                             <img alt="Image1" src="images/dummy/red/slider/bg.jpg">
                                     </div>
                                     
-                                    <div class="caption sft fadeout start"
+                                    <!--<div class="caption sft fadeout start"
                                         data-speed="400" data-start="1100" data-easing="easeOutBack"
                                         data-x="283"
                                         data-y="248">
                                             <img alt="Image2" src="images/dummy/red/slider/frame.png">
-                                    </div>
+                                    </div>-->
                                     
-                                    <div class="caption sft fadeout normal-text"
+                                   <!-- <div class="caption sft fadeout normal-text"
                                     data-x="314"
                                     data-y="301"
                                     data-speed="600" data-start="1200" data-easing="easeOutBack">
@@ -64,24 +64,30 @@
                                            
                                         </p>
                     
-                                    </div>
+                                    </div>-->
                                     
-                                    <div class="caption sfb fadeout subtitle"
+                                  <!-- <div class="caption sfb fadeout subtitle"
                                     data-x="438"
                                     data-y="374"
                                     data-speed="600" data-start="1300" data-easing="easeOutBack">
                                         <button type="submit" class="btn btn-black">
                                             View details
                                         </button>
-                                    </div>
+                                    </div> -->
                                         
-                                    <div class="caption sft fadeout title"
+                                   <div class="caption sft fadeout title"
                                     data-x="311"
                                     data-y="251"
                                     data-speed="600" data-start="1300" data-easing="easeOutBack">
-                                        Explore the details
-                                    </div>
-                                    
+                                        WE'LL Make Sure Your Website 
+										 </div>
+                                         
+                                   <div class="caption sft fadeout title"
+                                    data-x="390"
+                                    data-y="310"
+                                    data-speed="600" data-start="1600" data-easing="easeOutBack">
+                                  Works For You.
+										 </div>
                                     <div class="caption sft fadeout start"
                                         data-speed="400" data-start="900" data-easing="easeOutExpo"
                                         data-x="183"
